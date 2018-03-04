@@ -4,9 +4,9 @@ import { Node } from './node';
 import * as d3 from 'd3';
 
 const FORCES = {
-  LINKS: 1 / 50,
+  LINKS: 1 / 100,
   COLLISION: 1,
-  CHARGE: -1
+  CHARGE: -20
 }
 
 export class ForceDirectedGraph {

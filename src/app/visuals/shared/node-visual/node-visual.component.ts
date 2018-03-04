@@ -1,20 +1,20 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { Node } from '../../../d3';
 
 @Component({
   selector: '[nodeVisual]',
   template: `
-    <svg:g [attr.transform]="'translate(' + node.x + ',' + node.y + ')'">
+    <svg:g (click)="onClick()" [attr.transform]="'translate(' + node.x + ',' + node.y + ')'">
       <svg:circle
           class="node"
-          [attr.fill]="node.color"
+          [attr.fill]="color"
           cx="0"
           cy="0"
-          [attr.r]="node.r">
+          [attr.r]="node.r*2">
       </svg:circle>
       <svg:text
           class="node-name"
-          [attr.font-size]="node.fontSize">
+          [attr.font-size]="node.fontSize / 5">
         {{node.id}}
       </svg:text>
     </svg:g>
@@ -23,4 +23,11 @@ import { Node } from '../../../d3';
 })
 export class NodeVisualComponent {
   @Input('nodeVisual') node: Node;
+  @Output('select') select = new EventEmitter<Node>();
+  onClick() {
+    this.select.emit(this.node);
+  }
+  get color() {
+    return this.node.selected ? '#00ff00' : this.node.color;
+  }
 }
