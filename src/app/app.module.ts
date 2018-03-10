@@ -14,7 +14,7 @@ import { SHARED_VISUALS } from './visuals/shared';
 import { PlayComponent } from './components/play/play.component';
 import { ScrollSpy } from './components/scrollspy.directive';
 import { CharacterLabelComponent } from './components/character-label/character-label.component';
-import { SceneComponent } from './components/scene/scene.component';}
+import { SceneComponent } from './components/scene/scene.component';
 import { PlayService } from './services/play.service';
 import { SectionComponent } from './components/section/section.component';
 

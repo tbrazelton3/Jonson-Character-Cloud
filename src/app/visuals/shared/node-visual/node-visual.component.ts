@@ -22,8 +22,9 @@ import { Node } from '../../../d3';
   styleUrls: ['./node-visual.component.css']
 })
 export class NodeVisualComponent {
-  @Input('nodeVisual') node: Node;
+  @Input('nodeVisual') node: any;
   @Output('select') select = new EventEmitter<Node>();
+
   onClick() {
     this.select.emit(this.node);
   }

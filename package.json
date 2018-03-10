@@ -1,12 +1,13 @@
 {
-  "name": "angular-d3-graph-example",
+  "name": "bartholomew-faire-outline",
   "version": "0.0.1",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "lint": "ng lint"
+    "lint": "ng lint",
+    "pages": "ng build --prod --output-path docs --base-href outline"
   },
   "private": true,
   "dependencies": {

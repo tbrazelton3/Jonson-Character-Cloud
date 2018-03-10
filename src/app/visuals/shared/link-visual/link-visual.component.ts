@@ -17,7 +17,7 @@ import { Link } from '../../../d3';
   styleUrls: ['./link-visual.component.css']
 })
 export class LinkVisualComponent {
-  @Input('linkVisual') link: Link;
+  @Input('linkVisual') link: any;
   get color() {
     if ((<any>(this.link.source)).selected || (<any>(this.link.target)).selected) {
       return '#00ff00';
