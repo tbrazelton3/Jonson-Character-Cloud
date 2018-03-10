@@ -5,7 +5,7 @@ import { D3Service, ForceDirectedGraph, Node } from '../../d3';
   selector: 'graph',
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
-    <svg #svg [attr.width]="_options.width" [attr.height]="_options.height">
+    <svg #svg [attr.width]="'100%'" [attr.height]="400">
       <g [zoomableOf]="svg">
         <g [linkVisual]="link" *ngFor="let link of links"></g>
         <g [nodeVisual]="node" (select)="onSelect($event)" *ngFor="let node of nodes"
@@ -20,7 +20,7 @@ export class GraphComponent implements OnInit, AfterViewInit {
   @Input('links') links;
   graph: ForceDirectedGraph;
   private selected:Node;
-  private _options: { width, height } = { width: 800, height: 600 };
+  _options: { width, height } = { width: '100%', height: '400' };
 
   @HostListener('window:resize', ['$event'])
   onResize(event) {

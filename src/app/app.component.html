@@ -1,1 +1,21 @@
-<graph [nodes]="nodes" [links]="links"></graph>
+
+<clr-main-container>
+    <clr-header>
+      <div class="branding">
+        <a href="#" class="nav-link">
+          <span class="title">Open Source Ben Jonson</span>
+        </a>
+      </div>
+        <div class="header-nav" [clr-nav-level]="1">
+            <a class="nav-link" href="#"  [routerLink]="['/']" routerLinkActive="active"><span class="nav-text">Bartholomew Fair</span></a>
+        </div>
+      <div class="header-actions">
+      </div>
+    </clr-header>
+    <!-- <div class="content-container"> -->
+      <!-- <div class="content-area"> -->
+        <!-- <graph [nodes]="nodes" [links]="links"></graph> -->
+        <router-outlet></router-outlet>
+      <!-- </div> -->
+    <!-- </div> -->
+  </clr-main-container>
