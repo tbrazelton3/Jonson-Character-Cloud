@@ -1,0 +1,41 @@
+<div class="content-area container-fluid" hash-listener #playnav>
+    <div class="row">
+        <h1 id="play">{{play.title}}</h1>
+    </div>
+    <div class="row">
+        <div class="col-xs-4">
+                {{play.description}}
+        </div>
+        <div class="col-xs-8">
+            <graph [nodes]="nodes" [links]="links"></graph>
+        </div>
+    </div>
+    
+    <div class="row" for="playnav" *ngFor="let act of play.acts; let i = index">
+        <div class="col-xs">
+            <h2>{{act.title}}</h2>
+            <p>{{act.description}}</p>
+            <app-scene *ngFor="let scene of act.scenes; let j = index" id="{{'scene_'+ (i+1) + '_' + (j+1)}}" [scene]="scene" [play]="play">
+            </app-scene>
+        </div>
+
+    </div>
+    <div class="col-xs" [style.height]="'100vh'"></div>
+</div>
+
+<nav class="sidenav">
+    <section class="sidenav-content" role="navigation" [scrollspy]="playnav">
+        <!--<a class="nav-link" snScrollSpyItem for="playnav" href="#play">{{play.title}}</a>-->
+        <a class="nav-link" routerLink="." fragment="play">{{play.title}}</a>
+        <section class="nav-group" *ngFor="let act of play.acts; let i = index">
+            <label>{{act.title}}</label>
+            <ul class="nav-list">
+                <li *ngFor="let scene of act.scenes; let j = index ">
+                    <!--<a class="nav-link" snScrollSpyItem for="playnav" href="{{'#scene_'+ (i+1) + '_' + (j+1)}}" [attr.href]="'#scene_'+ (i+1) + '_' + (j+1)">Scene {{scene.title}}</a>-->
+                    <a class="nav-link" routerLink="." fragment="{{'scene_'+ (i+1) + '_' + (j+1)}}">Scene {{scene.title}}</a>
+
+                </li>
+            </ul>
+        </section>
+    </section>
+</nav>
