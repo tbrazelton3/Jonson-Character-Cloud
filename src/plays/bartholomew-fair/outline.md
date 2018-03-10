@@ -9,34 +9,46 @@ Bartholomew Fair takes place on the feast day of St. Bartholomew, a holiday cele
 The opening act takes place in John Littlewit’s law office. We are introduced to his pregnant wife, Win-the-Fight. She fakes a craving for roast pig, available only at the fair, so that she and her husband get approval from Win’s wealthy mother, Dame Purecraft, to go to the fair. We also meet John Littlewit’s drinking buddies, Quarlous and Winwife. Winwife is courting Dame Purecraft, but is not making much headway because Dame Purecraft has been told that she must marry a madman within the week by a fortune-teller. Littlewit completes a marriage license, made out for his client, Bartholomew Cokes. Cokes is a man-child whose every move is watched and critiqued by his irascible tutor, Wasp. Cokes’s sister, Mistress Overdo, has betrothed him to her ward, Grace Wellborn. Grace is much too sophisticated to be happy with Cokes, but must marry him or pay a fine that would take up most of her inheritance. 
 
 ### Scene 1.1 
+Characters: Littlewit, Win-the-fight
+
  Littlewit announces Bartholomew Cokes’ marriage on St. Bartholomew’s Day and talks about the marriage license. Win enters and Littlewit compliments her hat and shoes.
 
 Questions:
  * Why does Jonson make Win’s character so submissive to Littlewit(for ex., she barely says a word when he’s complimenting her hat)?
 
 ### Scene 1.2
+Characters: Winwife, Littlewit, Win-the-fight
+
 Winwife kisses Win-the-fight, and talks about his desire to marry her mother, Dame Purecraft, a rich widow. They also mention another unnamed suitor for Dame Purecraft (who we eventually find out is Zeal-of-the-Land Busy).  
 
 Questions:
 * Why are women mostly referenced in terms of the men (wife, fiance, a person of romantic interest), as sorts of objects of conquest or points of contention/rivalry for the men? Will this kind of objectification be constant throughout the play, or will there be character development of female characters? 
 
 ### Scene 1.3
+Characters: Quarlous, Winwife, Littlewit, Win-the-fight
+
 Quarlous enters and Littlewit asks him about the previous night, but Quarlous does not remember because they had been drinking. It becomes evident how unintelligent Littlewit is because Quarlous kisses his wife, and Littlewit lets him continue even though his wife is uncomfortable.   
 
 
 ### Scene 1.4
+Characters: Wasp, Win-the-fight, Littlewit, Quarlous
+
 Others talk about how irritable Wasp is because he has to put up with Cokes. Wasp has a tirade about Cokes’ incompetence,saying that he has a “head full of bees.” Wasp insults Littlewit and Win-the-fight, calling them both equally dumb. 
 
 Questions:
 * Why does Cokes refer to Wasp as “Numps”?
 
 ### Scene 1.5
+Characters: Wasp, Cokes, Grace, Mistress Overdo, Littlewit, Win-the-fight, Quarlous, Winwife
+
 Cokes gets a box with his marriage license. Cokes, Wasp, Dame Overdo, Grace exit to head to fair. Winwife decides to stop looking for a widow temporarily and head to the fair with Quarlous. Littlewit explains to Win-the-fight how they can trick Purecraft into letting them go to the Fair. He says Win-the-fight should fake a pregnancy craving for pig, so that Purecraft will feel she must allow Win-the-fight to go to the fair and get some. Littlewit exits to go get Purecraft.
 
 Questions:
 * Why does Littlewit feel so sure that a pregnancy craving will convince Purecraft to let them go to the fair? 
 
 ### Scene 1.6
+Characters: Solomon, Littlewit, Win-the-fight, Dame Purecraft, Zeal-of-the-Land, Busy
+
 Dame Purecraft, the widowed mother of Win-the-fight, arrives. Purecraft mentions that Win-the-fight’s upbringing was the purest and doesn’t understand her desire for pig. She encourages Win-the-fight to fight her desires for pig. Then, Zeal-of-the-Land Busy, Purecraft’s religious leader and possible love interest, arrives. Purecraft tells Busy that Win-the-fight has a craving to eat pig at the fair. Busy explains how the longing is a carnal disease, and at first he doesn’t want to go. Littlewit convinces Purecraft and Busy to go to the fair by telling them that  Win’s pregnancy is at stake if they don’t go to the fair. Consequently, Purecraft and Busy agree to go to the fair. Win-the-fight and Littlewit plan to leave Purecraft and Busy in the  booth at the Pig place so they can go enjoy the fair. Busy explains how eating pig aligns with his anti-semitic views as they leave for the fair. 
 
 Questions: 
@@ -46,6 +58,8 @@ Questions:
 Justice Overdo delivers a long monologue about how he plans to uncover “enormities” (crimes and immoral behavior) at Bartholomew Fair by going undercover as the madman, Arthur Bradley.  As he meets different fair workers, he incorrectly identifies some as thieves, while failing to catch the real thieves. He gives a public speech about the evils of the fair, tobacco, etc. that ends up providing cover for pickpockets to steal from Cokes. Wasp blames Overdo and beats him. Meanwhile, Quarlous and Winwife engage in an insult fight with Ursula at her pig booth. She burns her leg when she tries to attack them physically because she becomes so angry.
 
 ### Scene 2.1
+Characters: Overdo
+
 Overdo reveals that he is going undercover to seek out criminals at the fair. He talks about the different sins at the fair and how he wants to stop them. He also mentions that no one else at the fair will look for sins, so he must do it himself.  
 
 Questions:
@@ -53,12 +67,16 @@ Questions:
 * Why does the play’s structure feel so all over the place and hectic? Is there actually an order to it, or is it naturalistic? Does it observe Aristotelian unities? 
 
 ### Scene 2.2
+Characters: Leatherhead, Trash, Ursula, Overdo, Mooncalf, Costermonger
+
 Vendors offer their products and talk. Justice judges the nature of the vendors in a very pretentious manner based on their appearances.
 
 Questions:
 * Why does Ben Jonson include the comments of Justice Overdo? How does this develop Justice’s personality and attitude towards other characters? The scenery introduces the tone of the fair as the characters interact with each other. Overdo is better developed as a character that judges others.
 
 ### Scene 2.3
+Characters: Knockem, Ursula, Overdo, Mooncalf
+
 Ursula converses with Knockem. Justice starts to think that Knockem is a bad person based on where he comes from.
 
 Questions:
@@ -66,12 +84,16 @@ Questions:
 * What can Bartholomew Fair’s depiction of the fair folk versus the wealthy widow (Dame Purecraft), the lawyer (Littlewit), and the gentry (Grace, Quarlous, Winwife)  tell us about social class in the period?
 
 ### Scene 2.4
+Characters: Edgeworth, Nightingale, Corncutter, Tinderbox Man, Passengers, Leatherhead, Trash, Overdo, Mooncalf, Ursula, Knockem
+
 The fair workers have gathered together and are setting up their booths. Overdo is there in disguise, trying to identify the cutpurses. Ursula is directing everyone to get set for the beginning of the fair as they all are laughing, drinking, and joking around. It is revealed that the fair workers share in the purses that are stolen. Overdo is assessing the situation and feels that the innocent youth are being corrupted by this event and the present company. Overdo decides that he wants to save Mooncalf from the corruption of the fair during an aside.
 
 Questions:
 * Why does Justice feel this moral obligation to overstep his jurisdiction to seek out the morally depraved rather than take his cases as they are reported to him? Are the judgements made on the fair workers appropriate or are they warped by Overdo’s preconceived notions? 
 
 ### Scene 2.5
+Characters: Winwife, Quarlous, Ursula, Knockem
+
 Quarlous and Winwinfe go to the fair and are approached by all of the different fair people. Eventually they start to get fed up with the aggressive approaches and start picking fights with the fair people. The fight appears to be a fight between the two classes, and on the premise of class. The most prominent fight consists of Ursula against Quarlous and Winwife. During this fight Knockem starts to insult Quarlous and Winwife and the fight escalates. Eventually, Ursula comes out with a hot pan and ends up burning her own leg when she falls. 
 
 Questions:
@@ -79,6 +101,8 @@ Questions:
 * Do you think it is significant that it is between two men and a woman? 
 
 ### Scene 2.6
+Characters: Cokes, Wasp, Mistress Overdo, Grace, Edgeworth, Nightingale
+
 Overdo tells Cokes about the evil substances at the fair such as tawny weed tobacco, and liquor. Edgeworth steals Cokes’ purse, while Nightingale sings as a distraction. Edgeworth is caught stealing the purse by Wasp. Everyone blames Overdo and he ends up getting beaten by Wasp (dramatic irony because we know that is was not Overdo, but the characters are convinced it was). Cokes says it’s fine because it’s not even his best purse.  He produces his other one and waves it around pretentiously. 
 
 Questions:
@@ -88,24 +112,31 @@ Questions:
 The citizens continue to enjoy the pleasures of the fair. Cokes shows that he has poor impulse control by buying up everything in sight. Mistress Littlewit pretends that now she has a pregnancy craving to see all of the sights of the fair. This sets Busy off in a self-righteous rage. He smashes Trash’s booth and is taken off to the stocks for creating a disturbance. 
 
 ### Scene 3.1
+Characters: Leatherhead, Trash, Whit, Haggis, Bristle
+
 The two policemen, Haggis and Bristle, talk with Whit (a bawd, or pimp), Leatherhead, and Trash about the commotion. Whit speaks in heavy dialect, and the police complain about how early in the day it is for the Fair to have fighting and drunkenness. 
 
 Questions:
 * How much authority do Bristle and Haggis have to question and detain people?
 
 ### Scene 3.2
+Characters: Quarlous, Winwife, Busy, Whit, Knockem, Littlewit, Dame Purecraft, Ursula, Mooncalf
+
 Win-the-fight and company arrive to eat the pig which they came for. Ursula and Mooncalf decide to give the more expensive ale to them because they seem to be from the city. Quarlous tells Winwife to go after Purecraft now since she is drinking and eating pigs and would be more inclined to accept.  Winwife does not pursue her now, though. 
 
 Questions:
 * What does this scene show about Winwife’s character?  What does this show about the difference between the fair people and the people of the city during this time?  
 
 ### Scene 3.3
+Characters: Overdo, Winwife, Quarlous
 Overdo has a monologue about how he deserves his punishment because he stood by while the theft took place. 
 
 Questions:
 * Why does Quarlous seem to be omniscient, but Justice Overdo seems to be tragically lacking in judicial ability? How is this scene a result of Overdo’s hypocrisy earlier in the play?
 
 ### Scene 3.4
+Characters: Cokes, Quarlous, Wasp, Leatherhead, Trash
+
 ‘Master’ Cokes likes what he sees at the fair, and continues to want to buy everything in immediate sight from Leatherhead or Trash. Wasp sarcastically comments that Cokes might as well buy the entire shop, but protests when Cokes tries to actually go through with it. In the end, Cokes forks up the shillings for both shops. 
 
 Questions:
@@ -113,12 +144,16 @@ Questions:
 * How much power does Wasp have over Cokes?
 
 ### Scene 3.5
+Characters: Mistress Overdo, Overdo, Cokes, Edgeworth, Nightingale, Wasp, Quarlous, Winwife, Grace
+
 Edgeworth keeps trying to pick Cokes’ pocket. Mistress Overdo and Cokes blame Justice Overdo, and he is taken to the stocks. Winwife and Quarlous are amused and ask Edgeworth to steal Cokes’ license from Wasp’s possession. 
 
 Questions:
 * What do Winwife and Quarlous think will happen when Edgeworth steals Coke’s license?
 
 ### Scene 3.6
+Characters: Littlewit, Win-the-Fight, Trash, Knockem, Busy, Dame Purecraft, Leatherhead
+
 Littlewit and Win-the-Fight discuss how they might stay at the Fair longer. They decide to persuade Purecraft and Busy with the narrative that Win-the-Fight would like to see more attractions/sights at the Fair. Busy describes the sinfulness of the Fair. He says the Fair is guilty of idolatry and is “the seat of the Beast.” Leatherhead asks Busy to stop and leave. Busy destroys Trash’s stall of gingerbread. Busy is taken away by officers and Purecraft follows them out. Littlewit and Win-the-Fight leave to seek further entertainment at the Fair.
 
 Questions:
@@ -128,11 +163,15 @@ Questions:
 
 
 ### Scene 4.1
+Characters: Overdo, Cokes, Trouble-All, Haggis, Bristle, Busy, Dame Purecraft, Poacher
+
 Trouble-All insists that the watchmen cannot put Bradley (Overdo in disguise) in the stocks. From the conversation, we learn that Trouble-All was humiliated last year and lost his job because of Overdo. Now Trouble-All refuses to do anything, even use the bathroom or get dressed, without a warrant from Justice Overdo. Overdo is put in the stocks, which makes Cokes happy and he exits the scene.  Overdo listens to Haggis and Bristle as they tell Trouble-All Overdo cannot be bothered to come, even though Overdo is in disguise stuck in the stocks.  They take the Justice out of the stocks.  Poacher, Busy, and Purecraft enter; the watchmen decide not to put Busy in the stocks, and is instead sent to Overdo. The watchmen introduce Trouble-All as a madman, which is exactly what Purecraft is looking for, all exit but Trouble-All
 
 
 ### Scene 4.2
-Nightingale and Edgworth are approached by Trouble-All who continues to ask for a warrant for everything he does. He praises Justice Overdo because he is the one with the power to write warrants.This small scene is followed by Cokes entering and wants to buy pears from Costermonger. Nightingale offers and agrees to hold all of Cokes’ stuff: his sword, his cloak, and his hat. Nightingale and Edgeworth run off stealing all of his stuff and Cokes was fooled again. Cokes talks about how unfortunate he is and he runs into Trouble-All. Trouble-All asks if he had a warrant to lose all of his stuff.
+Characters: Cokes, Edgeworth, Nightingale, Trouble-All, Costermonger
+
+Nightingale and Edgeworth are approached by Trouble-All who continues to ask for a warrant for everything he does. He praises Justice Overdo because he is the one with the power to write warrants.This small scene is followed by Cokes entering and wants to buy pears from Costermonger. Nightingale offers and agrees to hold all of Cokes’ stuff: his sword, his cloak, and his hat. Nightingale and Edgeworth run off stealing all of his stuff and Cokes was fooled again. Cokes talks about how unfortunate he is and he runs into Trouble-All. Trouble-All asks if he had a warrant to lose all of his stuff.
 
 Questions:
 * Why does Ben Jonson include a character like Trouble-All? What is his significance?
@@ -140,24 +179,31 @@ Questions:
 * What is the significance of him getting all his stuff stolen for a third time?
 
 ### Scene 4.3
+Characters: Grace, Quarlous, Win-Wife, Trouble-All, Edgeworth
+
 Deciding on who Grace is to marry because she is not happy with Cokes and both Quarlous and Winwife are fighting to woo her. Grace tells them to each pick a word, and she will decide who to marry based on the words they have chosen. However, she also says she will refuse to say who won the competition until after the two men steal the marriage license so that they will both stay committed to stealing it. Trouble-All enters and questions whether the men have a warrant for their competition, to which they scoff at him and question the type of warrant required. Even Trouble-All cannot specify the type of warrant he is asking for.
 
 Questions:
 * Why are these two men vying for the love of Grace? Is there any significance to this?
 
 ### Scene 4.4
+Characters: Knockem, Nordern, Puppy, Cutting, Whit, Edgeworth, Quarlous, Overdo, Wasp, Bristle
 Starts with the game of vapours where you say the opposite of what the last person said. Wasp is being distracted while playing the game so that Edgeworth can steal the marriage license. They drink and the game gets personal and then they start to fight. Mistress overdue breaks up the fight.  The watch comes and stops the fight. 
 
 Questions:
 * Why is Puppy named Puppy? 
 
 ### Scene 4.5
+Characters: Littlewit, Win-the-fight, Ursula, Knockem, Whit, Alice, Mistress Overdo
+
 Littlewit leaves Win with Ursula and Knockem. Ursula, Knockem, and Whit talk about how how the life of a woman is one of captivity when she does everything right (marry the right man and have children). They then convince Win that she has been living her life wrong and convince her to come get dressed up like a courtesan. Alice enters assaulting Mrs Overdo believing that she has been stealing business away from her. Knockem and Whit manage to throw Alice out of the tent after laughing at her. They then continue discussing how much freer they are compared honest women like Win.
 
 Questions:
 * How much does Win-the-Fight understand about what Knocken and Whit are trying to get her to do? 
 
 ### Scene 4.6
+Characters: Trouble-all, Knockem, Whit, Quarlous, Edgeworth, Wasp, Bristle, Haggis, Busy, Overdo, Dame Purecraft
+
 Quarlous wants to know what word Trouble-all picked. They try to put Wasp in the stocks but he escapes. At the end of the scene the stocks are left unlocked after a fight between Trouble-all and Bristle, so Busy and Overdo also escape. Quarlous decides to dress up like a madman after seeing Trouble-All. 
 
 Questions:
@@ -167,31 +213,43 @@ Questions:
 ## Act V
 
 ### Scene 5.1
+Characters: Leatherhead, Filcher, Sharkwell
+
 Leatherhead sets up his puppet theater with the help of Filcher and Sharkwell. He reminisces about the good old days of puppet theater and the earlier productions he has put on. 
 
 Questions: 
 * Does Leatherhead insult amateur dramatists with his comment that “Your home-born projects prove ever the best; they are so easy and familiar”? Does he insult his audience by implying that they want only what is digestible and easy?
  
 ### Scene 5.2
+Characters: Overdo, Winwife, Grace, Quarlous, Dame Purecraft
+
 The Justice has changed his disguise to that of a porter.  He feels guilty about having driven Trouble-All mad, and tries to determine a plan to help Trouble-All. Winwife and Grace wonder where Quarlous is, and they don’t recognize him through his disguise as a madman. Dame Purecraft thinks Quarlous is Trouble-All and proposes to him. After learning that Winwife won the game for Grace’s hand in marriage, Quarlous decides to marry Purecraft. Justice Overdo also  mistakes Quarlous for Trouble-All, and offers to help him out. Quarlous requests a warrant from Overdo so that he can marry Purecraft. 
 
 Questions:
 * Does Quarlous have it planned from the beginning that his Trouble-All disguise will make him appealing to Dame Purecraft? If so, why does he make such a big deal of deliberating about it after she proposes? If not, why would he disguise himself?
 
 ### Scene 5.3
+Characters: Cokes, Sharkwell, Filcher, Overdo, Littlewit, Leatherhead
+
 Cokes walks past the puppet show tent and decides he wants to see the play. He asks Littlewit to loan him the money to see the puppet show, and they both enter. Leatherhead shows the puppets off and introduces the topic of the puppet show - a version of Hero and Leander set in working-class London.
 
 ### Scene 5.4
+Characters: Cokes, Winwife, Grace, Leatherhead, Overdo, Filcher, Knockem, Sharkwell, Whit, Edgeworth, Win-the-fight, Wasp, Puppet Leander, Puppet Cole, Puppet Jonas, Puppet Damon, Puppet Pythias
+
 Edgworth hits on Mistress Littlewit and Whit offers to sell either Mistress LIttlewit or Mistress Overdo’s sexual favors for twelvepence. Wasp comes to the show, and Littlewit goes looking for his wife (he doesn’t recognize her because she is wearing a mask). Leatherhead begins the puppet show. Cokes has difficulty telling reality from fiction. 
 
 
 ### Scene 5.5
+Characters: Cokes, Winwife, Grace, Leatherhead, Overdo, Filcher, Knockem, Sharkwell, Whit, Edgeworth, Win-the-fight, Wasp, Puppet Leander, Puppet Cole, Puppet Jonas, Puppet Damon, Puppet Pythias, Busy
+
 Busy bursts in at the middle of the show, threatening to tear apart the puppet booth. He gets in an argument with Puppet Dionysius, who convinces Busy that there is nothing wrong with the puppet show because there is no crossdressing involved (puppets, Dionysius argues, don’t have a sex and therefore can’t dress as the opposite sex). Justice Overdo reveals  himself and prepares to deliver a speech
 
 Questions:
 * Why does Busy seem convinced by Puppet Dionysius’s line of reasoning?
 
 ### Scene 5.6
+Characters: Quarlous, Dame Purecraft, Overdo, Edgeworth, Knockem, Whit, Littlewit, Winwife, Mistress Littlewit, Trouble-All, Ursula, Overdo, Nightingale, Mistress Overdo, Wasp, Cokes
+
 Quarlous and Dame Purecraft enter. Still thinking that Quarlous is Trouble-All, Justice Overdo speaks gently to him. Littlewit returns looking for his wife. Justice Overdo delivers a self-righteous and judgmental speech condemning Busy for being a hypocrite, Leatherhead for being a “profane professor of puppetry,” Knockem of leading youth astray, and Whit for being a pimp. He unmasks MIstress Littlewit, then condemns Littlewit when he says that she is his wife. The real Trouble-All comes in, and Overdo realizes that he has been tricked. Mistress Overdo wakes up and starts throwing up because she is really drunk. Justice Overdo recognizes her and is humiliated. Quarlous reveals that he has Justice Overdo’s signature, transfering wardship of Grace to him. He agrees to let Grace marry Winwife, but demands that she pay him what she would have originally owed Justice Overdo. He also reveals that he has taken Cokes’s marriage license from Numps. Everyone is astounded. Quarlous suggests they finish the puppet show at Justice Overdo’s house, and Justice Overdo agrees. 
 
 ## General Questions
@@ -275,28 +333,17 @@ FERREIRA-ROSS, JEANETTE. “Religion and the Law in Jonson's ‘Bartholomew’ F
 Latham, Jacqueline EM. "Form in Bartholomew Fair." English 21.109 (1972): 8-11. https://academic.oup.com/english/article-abstract/21/109/8/696825 .
 
 
-## Market Research/Alternative Resources:
+## Additional Resources
 ### Summary
- *	http://english8.fsu.edu/Courses/ENL4161_F17/Bart_Fair_outline.html
-English 4161; simple one sentence per act summary. 
 
-* https://study.com/academy/lesson/ben-jonsons-bartholomew-fair-summary-characters-quiz.html (Paid)
-Gives a complete summary per act, but requires a subscription.
+*	[English 4161; simple one sentence per act summary.](http://english8.fsu.edu/Courses/ENL4161_F17/Bart_Fair_outline.html)
+* [A complete summary per act, but requires a subscription](https://study.com/academy/lesson/ben-jonsons-bartholomew-fair-summary-characters-quiz.html)
+* [Broad Summary](http://www.gradesaver.com/bartholomew-fair/study-guide/summary)
+*	[Another broad summary goes over the plot](https://www.enotes.com/topics/bartholomew-fair)
+*	[an overview/ poor summary of the play, as well as a list of the entire cast](http://www.thecrimson.com/article/1908/2/29/plot-and-cast-of-bartholomew-fair/)
+*	[video plot summary of the play](https://www.youtube.com/watch?v=ffg8YvnSuX8)
+*	[summary of Bartholomew Fair and has tabs for many other things, like character list and descriptions, quotes, themes, and more](http://www.gradesaver.com/bartholomew-fair/study-guide/summary)
 
-* http://www.gradesaver.com/bartholomew-fair/study-guide/summary 
-(broad summary)
-
-*	 https://www.enotes.com/topics/bartholomew-fair 
-(another broad summary goes over the plot)
-
-*	http://www.thecrimson.com/article/1908/2/29/plot-and-cast-of-bartholomew-fair/
-(an overview/ poor summary of the play, as well as a list of the entire cast)
-
-*	https://www.youtube.com/watch?v=ffg8YvnSuX8
-(video plot summary of the play)
-
-*	http://www.gradesaver.com/bartholomew-fair/study-guide/summary
-(summary of Bartholomew Fair and has tabs for many other things, like character list and descriptions, quotes, themes, and more)
 
 
 
@@ -304,48 +351,17 @@ Gives a complete summary per act, but requires a subscription.
 
 ### Character Analysis
 
-* https://www.yorknotes.com/undergraduate/english-literature/shakespeare-and-renaissance-drama/study/critical-theories-and-debates/03020200_women-at-the-margins 
-(mostly about ursula rather than the entire play as a whole)
-
-*	http://stageagent.com/shows/play/2352/bartholomew-fayre
-(character analysis & video reference)
-
-
-
-* https://en.wikipedia.org/wiki/Bartholomew_Fair_(play)  (wikipedia article)
-
-* https://www.youtube.com/watch?v=ffg8YvnSuX8
-(video plot summary of the play)
-
-* https://www.coursehero.com/file/8871905/summary-of-bartholomew-fair/
-(Summary of the play but you need an account for the website to be able to view the entire summary)
-
-* https://universitypublishingonline.org/cambridge/benjonson/k/essays/Bartholomew_Fair_textual_essay/
-(textual essay extensively describing the play)
-
-* https://www.jstor.org/stable/449340?seq=2#page_scan_tab_contents 
-(Journal article by James E. Robinson reviewing the play an the author’s intent)
-
-* https://rachelkador.wordpress.com/2010/12/20/the-satiric-inductions-of-bartholomew-fair-and-the-malcontent/
-(focuses on the induction and compares it to that of The Malcontent, a play by John Marston that also starts by addressing the audience)
-
-* http://www.gradesaver.com/bartholomew-fair/study-guide/summary
-(summary of Bartholomew Fair and has tabs for many other things, like character list and descriptions, quotes, themes, and more)
-
-* https://www.jstor.org/stable/461264?Search=yes&resultItemClick=true&searchText=Bartholomew&searchText=fair&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DBartholomew%2Bfair%26amp%3Bfilter%3D&refreqid=search%3A0fc899e69cf304989b39ca53ca4783dd&seq=1#page_scan_tab_contents 
-(Journal entry analysis by Richard Levin about the structure of the play and the content)     
-
-* https://www.enotes.com/topics/bartholomew-fair/critical-essays
-(critical essay/evaluation of the play as a whole piece of work; not a summary of the play itself)
-
-* http://jps.library.utoronto.ca/index.php/eth/article/viewFile/22184/17997
-(Focuses on the auditory challenge presented when performing in front of packed houses.)
-
-* https://muse.jhu.edu/article/559794/pdf 
-(Themes and staging of bartholomew fair)
-
-* https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_museS1522927015200020&context=PC&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US
-(Female chastity and commonitized selfhood in bartholomew fair)
-
-* https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_proquest1411131226&context=PC&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US
-(puppets relation to theft during the time period)
+* [Women at the Margins](https://www.yorknotes.com/undergraduate/english-literature/shakespeare-and-renaissance-drama/study/critical-theories-and-debates/03020200_women-at-the-margins)  (mostly about ursula rather than the entire play as a whole)
+*	[Character analysis & video reference](http://stageagent.com/shows/play/2352/bartholomew-fayre)
+* [Wikipedia Entry](https://en.wikipedia.org/wiki/Bartholomew_Fair_(play))
+* [Summary of the play but you need an account for the website to be able to view the entire summary](https://www.coursehero.com/file/8871905/summary-of-bartholomew-fair/)
+* [textual essay extensively describing the play](https://universitypublishingonline.org/cambridge/benjonson/k/essays/Bartholomew_Fair_textual_essay/)
+* [Journal article by James E. Robinson reviewing the play an the author’s intent](https://www.jstor.org/stable/449340?seq=2#page_scan_tab_contents)
+* [focuses on the induction and compares it to that of The Malcontent, a play by John Marston that also starts by addressing the audience](https://rachelkador.wordpress.com/2010/12/20/the-satiric-inductions-of-bartholomew-fair-and-the-malcontent/)
+* [summary of Bartholomew Fair and has tabs for many other things, like character list and descriptions, quotes, themes, and more](http://www.gradesaver.com/bartholomew-fair/study-guide/summary)
+* [Journal entry analysis by Richard Levin about the structure of the play and the content](https://www.jstor.org/stable/461264?Search=yes&resultItemClick=true&searchText=Bartholomew&searchText=fair&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DBartholomew%2Bfair%26amp%3Bfilter%3D&refreqid=search%3A0fc899e69cf304989b39ca53ca4783dd&seq=1#page_scan_tab_contents)
+* [critical essay/evaluation of the play as a whole piece of work; not a summary of the play itself](https://www.enotes.com/topics/bartholomew-fair/critical-essays)
+* [Focuses on the auditory challenge presented when performing in front of packed houses.](http://jps.library.utoronto.ca/index.php/eth/article/viewFile/22184/17997)
+* [Themes and staging of bartholomew fair](https://muse.jhu.edu/article/559794/pdf)
+* [Female chastity and commonitized selfhood in bartholomew fair](https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_museS1522927015200020&context=PC&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US)
+* [puppets relation to theft during the time period](https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_proquest1411131226&context=PC&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US)

@@ -1,0 +1,9 @@
+<h1 *ngIf="section.level === 1" id="{{section.id}}">{{section.title}}</h1>
+<h2 *ngIf="section.level === 2" id="{{section.id}}">{{section.title}}</h2>
+<h3 *ngIf="section.level === 3" id="{{section.id}}">{{section.title}}</h3>
+<h4 *ngIf="section.level === 4" id="{{section.id}}">{{section.title}}</h4>
+<h5 *ngIf="section.level === 5" id="{{section.id}}">{{section.title}}</h5>
+<div class="col-xs-6 mt-1" *ngIf="section.characters.length > 0">
+  <span *ngFor="let character of section.characters"><app-character-label [character]="character"></app-character-label></span>
+</div>
+<markdown>{{section.content}}</markdown>

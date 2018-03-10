@@ -5,8 +5,7 @@ import { HttpModule } from '@angular/http';
 import { ClarityModule } from '@clr/angular';
 import { RouterModule, Route } from '@angular/router';
 import { D3Service, D3_DIRECTIVES } from './d3';
-import { InViewportModule, WindowRef } from '@thisissoon/angular-inviewport';
-import { ScrollSpyModule } from '@thisissoon/angular-scrollspy';
+import { MarkdownModule } from 'ngx-md';
 
 import { AppComponent } from './app.component';
 
@@ -15,12 +14,11 @@ import { SHARED_VISUALS } from './visuals/shared';
 import { PlayComponent } from './components/play/play.component';
 import { ScrollSpy } from './components/scrollspy.directive';
 import { CharacterLabelComponent } from './components/character-label/character-label.component';
-import { SceneComponent } from './components/scene/scene.component';
+import { SceneComponent } from './components/scene/scene.component';}
+import { PlayService } from './services/play.service';
+import { SectionComponent } from './components/section/section.component';
 
 const getWindow = () => window;
-const providers: Provider[] = [
-  { provide: WindowRef, useFactory: (getWindow) },
-];
 
 const ROUTES = [{path: '', component: PlayComponent}];
 @NgModule({
@@ -32,18 +30,18 @@ const ROUTES = [{path: '', component: PlayComponent}];
     PlayComponent,
     ScrollSpy,
     CharacterLabelComponent,
-    SceneComponent
+    SceneComponent,
+    SectionComponent
   ],
   imports: [
     BrowserModule,
     RouterModule.forRoot(ROUTES),
     FormsModule,
-    // InViewportModule.forRoot(providers),
-    // ScrollSpyModule.forRoot(),
+    MarkdownModule.forRoot(),
     HttpModule,
     ClarityModule
   ],
-  providers: [D3Service],
+  providers: [D3Service, PlayService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
