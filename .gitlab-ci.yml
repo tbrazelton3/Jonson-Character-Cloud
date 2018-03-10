@@ -6,7 +6,7 @@ pages:
   stage: deploy
   script:
     - yarn
-    - yarn run build
+    - yarn run pages
     - mkdir public
     - mv dist/* public
   artifacts:
