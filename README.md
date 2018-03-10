@@ -1,6 +1,7 @@
-# Angular D3 Graph Example
+# Open Source Ben Jonson
 
-This is the code of a short tutorial [published on medium](https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb)
+
+This project uses code from the following tutorial [published on medium](https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
