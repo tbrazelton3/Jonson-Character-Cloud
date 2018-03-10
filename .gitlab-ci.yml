@@ -1,0 +1,16 @@
+image: node:7.7.3
+
+
+# the 'pages' job will deploy and build your site to the 'public' path
+pages:
+  stage: deploy
+  script:
+    - yarn
+    - yarn run build
+    - mkdir public
+    - mv dist/* public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master # this job will affect only the 'master' branch
