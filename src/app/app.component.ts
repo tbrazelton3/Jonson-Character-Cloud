@@ -2,6 +2,8 @@ import { Component } from '@angular/core';
 import APP_CONFIG from './app.config';
 import { Node, Link } from './d3';
 import {characters, links} from './bartholomew-faire';
+const ABOUT = require('raw-loader!../plays/contributors.md');
+
 
 @Component({
   selector: 'app-root',
@@ -12,6 +14,10 @@ import {characters, links} from './bartholomew-faire';
 export class AppComponent {
   nodes: Node[] = characters;
   links: Link[] = links;
+  about = {
+    opened: false,
+    content: ABOUT
+  };
 
   constructor() {
     // const N = APP_CONFIG.N,

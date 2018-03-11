@@ -4,6 +4,15 @@
 
 Bartholomew Fair takes place on the feast day of St. Bartholomew, a holiday celebrated with a major late-summer festival. The comedy follows the activities of the citizens who make their way to the fair for a variety of reasons and the fair folk who entertain and take advantage of them. The play begins in the office of a proctor (ecclesiastical lawyer), John Littlewit. A series of London citizens come into Littlewit’s office for various reasons - to court his mother-in-law, to commiserate about hangovers, and to acquire a marriage license. They all decide to go to Bartholomew Fair. Meanwhile, at the Fair, a number of fairgoers prepare to receive the townsfolk and Justice Overdo disguises as the madman, Arthur of Bradley, so that he can spy on the fairgoers and catch them breaking the law. Overdo sees, first-hand, the consequences of harshly judging others as he is put in the stocks on suspicion of causing a distraction for pickpockets. Dame Purecraft, Littlewit’s mother-in-law, falls in love with the madman Trouble-All because a fortune teller has told her she must marry a madman within a week to be happy. Quarlous and Winwife both propose to Grace, and she has Trouble-all help her pick randomly between them. Winwife becomes engaged to Grace and Quarlous to Dame Purecraft after he disguises himself as Trouble-All. After a series of pranks, thefts, and brawls, both the fair folk and the townsfolk gather to watch a puppet play (motion) written by John Littlewit and performed by the puppeteer, Lantern Leatherhead. The hypocritical Puritan, Zeal-of-the-Land Busy, engages in a debate (which he loses) with the puppets over the morality of the theater. Justice Overdo, newly compassionate and hospitable, invites people back to his house to continue the party. 
 
+## Induction
+Characters: Stage-keeper, Book-holder, Scrivener
+
+The play begins with a stage-keeper, a kind of janitor, coming out to tell the audience that there has been a delay. He confides in the audience that they are really not missing out on much because the play is not very good. The book-holder (a prompter) then comes on stage and chases the stage-keeper off. He praises the play to the audience and introduces the scrivener, a law clerk, who reads the “Articles of Agreement,” a contract between the author and audience. 
+
+Questions:
+* Why begin the play with breaking the fourth wall in this way? Did other plays of this time period do this? 
+
+
 ## Act I
 
 The opening act takes place in John Littlewit’s law office. We are introduced to his pregnant wife, Win-the-Fight. She fakes a craving for roast pig, available only at the fair, so that she and her husband get approval from Win’s wealthy mother, Dame Purecraft, to go to the fair. We also meet John Littlewit’s drinking buddies, Quarlous and Winwife. Winwife is courting Dame Purecraft, but is not making much headway because Dame Purecraft has been told that she must marry a madman within the week by a fortune-teller. Littlewit completes a marriage license, made out for his client, Bartholomew Cokes. Cokes is a man-child whose every move is watched and critiqued by his irascible tutor, Wasp. Cokes’s sister, Mistress Overdo, has betrothed him to her ward, Grace Wellborn. Grace is much too sophisticated to be happy with Cokes, but must marry him or pay a fine that would take up most of her inheritance. 
@@ -84,7 +93,7 @@ Questions:
 * What can Bartholomew Fair’s depiction of the fair folk versus the wealthy widow (Dame Purecraft), the lawyer (Littlewit), and the gentry (Grace, Quarlous, Winwife)  tell us about social class in the period?
 
 ### Scene 2.4
-Characters: Edgeworth, Nightingale, Corncutter, Tinderbox Man, Passengers, Leatherhead, Trash, Overdo, Mooncalf, Ursula, Knockem
+Characters: Edgworth, Nightingale, Corncutter, Tinderbox Man, Passengers, Leatherhead, Trash, Overdo, Mooncalf, Ursula, Knockem
 
 The fair workers have gathered together and are setting up their booths. Overdo is there in disguise, trying to identify the cutpurses. Ursula is directing everyone to get set for the beginning of the fair as they all are laughing, drinking, and joking around. It is revealed that the fair workers share in the purses that are stolen. Overdo is assessing the situation and feels that the innocent youth are being corrupted by this event and the present company. Overdo decides that he wants to save Mooncalf from the corruption of the fair during an aside.
 
@@ -101,9 +110,9 @@ Questions:
 * Do you think it is significant that it is between two men and a woman? 
 
 ### Scene 2.6
-Characters: Cokes, Wasp, Mistress Overdo, Grace, Edgeworth, Nightingale
+Characters: Cokes, Wasp, Mistress Overdo, Grace, Edgworth, Nightingale
 
-Overdo tells Cokes about the evil substances at the fair such as tawny weed tobacco, and liquor. Edgeworth steals Cokes’ purse, while Nightingale sings as a distraction. Edgeworth is caught stealing the purse by Wasp. Everyone blames Overdo and he ends up getting beaten by Wasp (dramatic irony because we know that is was not Overdo, but the characters are convinced it was). Cokes says it’s fine because it’s not even his best purse.  He produces his other one and waves it around pretentiously. 
+Overdo tells Cokes about the evil substances at the fair such as tawny weed tobacco, and liquor. Edgworth steals Cokes’ purse, while Nightingale sings as a distraction. Edgworth is caught stealing the purse by Wasp. Everyone blames Overdo and he ends up getting beaten by Wasp (dramatic irony because we know that is was not Overdo, but the characters are convinced it was). Cokes says it’s fine because it’s not even his best purse.  He produces his other one and waves it around pretentiously. 
 
 Questions:
 * What does the fight between Overdo and Wasp add to our understanding of their characters?
@@ -144,12 +153,12 @@ Questions:
 * How much power does Wasp have over Cokes?
 
 ### Scene 3.5
-Characters: Mistress Overdo, Overdo, Cokes, Edgeworth, Nightingale, Wasp, Quarlous, Winwife, Grace
+Characters: Mistress Overdo, Overdo, Cokes, Edgworth, Nightingale, Wasp, Quarlous, Winwife, Grace
 
-Edgeworth keeps trying to pick Cokes’ pocket. Mistress Overdo and Cokes blame Justice Overdo, and he is taken to the stocks. Winwife and Quarlous are amused and ask Edgeworth to steal Cokes’ license from Wasp’s possession. 
+Edgworth keeps trying to pick Cokes’ pocket. Mistress Overdo and Cokes blame Justice Overdo, and he is taken to the stocks. Winwife and Quarlous are amused and ask Edgworth to steal Cokes’ license from Wasp’s possession. 
 
 Questions:
-* What do Winwife and Quarlous think will happen when Edgeworth steals Coke’s license?
+* What do Winwife and Quarlous think will happen when Edgworth steals Coke’s license?
 
 ### Scene 3.6
 Characters: Littlewit, Win-the-Fight, Trash, Knockem, Busy, Dame Purecraft, Leatherhead
@@ -169,9 +178,9 @@ Trouble-All insists that the watchmen cannot put Bradley (Overdo in disguise) in
 
 
 ### Scene 4.2
-Characters: Cokes, Edgeworth, Nightingale, Trouble-All, Costermonger
+Characters: Cokes, Edgworth, Nightingale, Trouble-All, Costermonger
 
-Nightingale and Edgeworth are approached by Trouble-All who continues to ask for a warrant for everything he does. He praises Justice Overdo because he is the one with the power to write warrants.This small scene is followed by Cokes entering and wants to buy pears from Costermonger. Nightingale offers and agrees to hold all of Cokes’ stuff: his sword, his cloak, and his hat. Nightingale and Edgeworth run off stealing all of his stuff and Cokes was fooled again. Cokes talks about how unfortunate he is and he runs into Trouble-All. Trouble-All asks if he had a warrant to lose all of his stuff.
+Nightingale and Edgworth are approached by Trouble-All who continues to ask for a warrant for everything he does. He praises Justice Overdo because he is the one with the power to write warrants.This small scene is followed by Cokes entering and wants to buy pears from Costermonger. Nightingale offers and agrees to hold all of Cokes’ stuff: his sword, his cloak, and his hat. Nightingale and Edgworth run off stealing all of his stuff and Cokes was fooled again. Cokes talks about how unfortunate he is and he runs into Trouble-All. Trouble-All asks if he had a warrant to lose all of his stuff.
 
 Questions:
 * Why does Ben Jonson include a character like Trouble-All? What is his significance?
@@ -179,7 +188,7 @@ Questions:
 * What is the significance of him getting all his stuff stolen for a third time?
 
 ### Scene 4.3
-Characters: Grace, Quarlous, Win-Wife, Trouble-All, Edgeworth
+Characters: Grace, Quarlous, Win-Wife, Trouble-All, Edgworth
 
 Deciding on who Grace is to marry because she is not happy with Cokes and both Quarlous and Winwife are fighting to woo her. Grace tells them to each pick a word, and she will decide who to marry based on the words they have chosen. However, she also says she will refuse to say who won the competition until after the two men steal the marriage license so that they will both stay committed to stealing it. Trouble-All enters and questions whether the men have a warrant for their competition, to which they scoff at him and question the type of warrant required. Even Trouble-All cannot specify the type of warrant he is asking for.
 
@@ -187,8 +196,8 @@ Questions:
 * Why are these two men vying for the love of Grace? Is there any significance to this?
 
 ### Scene 4.4
-Characters: Knockem, Nordern, Puppy, Cutting, Whit, Edgeworth, Quarlous, Overdo, Wasp, Bristle
-Starts with the game of vapours where you say the opposite of what the last person said. Wasp is being distracted while playing the game so that Edgeworth can steal the marriage license. They drink and the game gets personal and then they start to fight. Mistress overdue breaks up the fight.  The watch comes and stops the fight. 
+Characters: Knockem, Nordern, Puppy, Cutting, Whit, Edgworth, Quarlous, Overdo, Wasp, Bristle
+Starts with the game of vapours where you say the opposite of what the last person said. Wasp is being distracted while playing the game so that Edgworth can steal the marriage license. They drink and the game gets personal and then they start to fight. Mistress overdue breaks up the fight.  The watch comes and stops the fight. 
 
 Questions:
 * Why is Puppy named Puppy? 
@@ -202,7 +211,7 @@ Questions:
 * How much does Win-the-Fight understand about what Knocken and Whit are trying to get her to do? 
 
 ### Scene 4.6
-Characters: Trouble-all, Knockem, Whit, Quarlous, Edgeworth, Wasp, Bristle, Haggis, Busy, Overdo, Dame Purecraft
+Characters: Trouble-all, Knockem, Whit, Quarlous, Edgworth, Wasp, Bristle, Haggis, Busy, Overdo, Dame Purecraft
 
 Quarlous wants to know what word Trouble-all picked. They try to put Wasp in the stocks but he escapes. At the end of the scene the stocks are left unlocked after a fight between Trouble-all and Bristle, so Busy and Overdo also escape. Quarlous decides to dress up like a madman after seeing Trouble-All. 
 
@@ -234,13 +243,13 @@ Characters: Cokes, Sharkwell, Filcher, Overdo, Littlewit, Leatherhead
 Cokes walks past the puppet show tent and decides he wants to see the play. He asks Littlewit to loan him the money to see the puppet show, and they both enter. Leatherhead shows the puppets off and introduces the topic of the puppet show - a version of Hero and Leander set in working-class London.
 
 ### Scene 5.4
-Characters: Cokes, Winwife, Grace, Leatherhead, Overdo, Filcher, Knockem, Sharkwell, Whit, Edgeworth, Win-the-fight, Wasp, Puppet Leander, Puppet Cole, Puppet Jonas, Puppet Damon, Puppet Pythias
+Characters: Cokes, Winwife, Grace, Leatherhead, Overdo, Filcher, Knockem, Sharkwell, Whit, Edgworth, Win-the-fight, Wasp, Puppet Leander, Puppet Cole, Puppet Jonas, Puppet Damon, Puppet Pythias
 
 Edgworth hits on Mistress Littlewit and Whit offers to sell either Mistress LIttlewit or Mistress Overdo’s sexual favors for twelvepence. Wasp comes to the show, and Littlewit goes looking for his wife (he doesn’t recognize her because she is wearing a mask). Leatherhead begins the puppet show. Cokes has difficulty telling reality from fiction. 
 
 
 ### Scene 5.5
-Characters: Cokes, Winwife, Grace, Leatherhead, Overdo, Filcher, Knockem, Sharkwell, Whit, Edgeworth, Win-the-fight, Wasp, Puppet Leander, Puppet Cole, Puppet Jonas, Puppet Damon, Puppet Pythias, Busy
+Characters: Cokes, Winwife, Grace, Leatherhead, Overdo, Filcher, Knockem, Sharkwell, Whit, Edgworth, Win-the-fight, Wasp, Puppet Leander, Puppet Cole, Puppet Jonas, Puppet Damon, Puppet Pythias, Busy
 
 Busy bursts in at the middle of the show, threatening to tear apart the puppet booth. He gets in an argument with Puppet Dionysius, who convinces Busy that there is nothing wrong with the puppet show because there is no crossdressing involved (puppets, Dionysius argues, don’t have a sex and therefore can’t dress as the opposite sex). Justice Overdo reveals  himself and prepares to deliver a speech
 
@@ -248,7 +257,7 @@ Questions:
 * Why does Busy seem convinced by Puppet Dionysius’s line of reasoning?
 
 ### Scene 5.6
-Characters: Quarlous, Dame Purecraft, Overdo, Edgeworth, Knockem, Whit, Littlewit, Winwife, Mistress Littlewit, Trouble-All, Ursula, Overdo, Nightingale, Mistress Overdo, Wasp, Cokes
+Characters: Quarlous, Dame Purecraft, Overdo, Edgworth, Knockem, Whit, Littlewit, Winwife, Mistress Littlewit, Trouble-All, Ursula, Overdo, Nightingale, Mistress Overdo, Wasp, Cokes
 
 Quarlous and Dame Purecraft enter. Still thinking that Quarlous is Trouble-All, Justice Overdo speaks gently to him. Littlewit returns looking for his wife. Justice Overdo delivers a self-righteous and judgmental speech condemning Busy for being a hypocrite, Leatherhead for being a “profane professor of puppetry,” Knockem of leading youth astray, and Whit for being a pimp. He unmasks MIstress Littlewit, then condemns Littlewit when he says that she is his wife. The real Trouble-All comes in, and Overdo realizes that he has been tricked. Mistress Overdo wakes up and starts throwing up because she is really drunk. Justice Overdo recognizes her and is humiliated. Quarlous reveals that he has Justice Overdo’s signature, transfering wardship of Grace to him. He agrees to let Grace marry Winwife, but demands that she pay him what she would have originally owed Justice Overdo. He also reveals that he has taken Cokes’s marriage license from Numps. Everyone is astounded. Quarlous suggests they finish the puppet show at Justice Overdo’s house, and Justice Overdo agrees. 
 
