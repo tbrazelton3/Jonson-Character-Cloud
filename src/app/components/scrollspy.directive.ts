@@ -24,10 +24,10 @@ export class ScrollSpy implements OnDestroy, OnInit {
 
     @ContentChildren(RouterLinkWithHref, {descendants: true})
     set links(routerLinks: QueryList<RouterLinkWithHref>) {
-        this.anchors = routerLinks.map(routerLink => "#" + routerLink.fragment);
-        this.sub = routerLinks.changes.subscribe(() => {
-            this.anchors = routerLinks.map(routerLink => "#" + routerLink.fragment);
-        });
+        // this.anchors = routerLinks.map(routerLink => "#" + routerLink.fragment);
+        // this.sub = routerLinks.changes.subscribe(() => {
+        //     this.anchors = routerLinks.map(routerLink => "#" + routerLink.fragment);
+        // });
     }
 
     @ContentChildren(RouterLinkWithHref, {descendants: true, read: ElementRef})
@@ -37,17 +37,17 @@ export class ScrollSpy implements OnDestroy, OnInit {
     scrollPosition: number;
 
     handleEvent() {
-        this.scrollPosition = this.scrollable.scrollTop + this.offset;
-        if (!this.throttle) {
-            window.requestAnimationFrame(() => {
-                let currentLinkIndex = this.findCurrentAnchor() || 0;
-                this.linkElements.forEach((link: ElementRef, index: number) => {
-                    this.renderer.setElementClass(link.nativeElement, "active", index === currentLinkIndex);
-                });
-                this.throttle = false;
-            });
-        }
-        this.throttle = true;
+        // this.scrollPosition = this.scrollable.scrollTop + this.offset;
+        // if (!this.throttle) {
+        //     window.requestAnimationFrame(() => {
+        //         let currentLinkIndex = this.findCurrentAnchor() || 0;
+        //         this.linkElements.forEach((link: ElementRef, index: number) => {
+        //             this.renderer.setElementClass(link.nativeElement, "active", index === currentLinkIndex);
+        //         });
+        //         this.throttle = false;
+        //     });
+        // }
+        // this.throttle = true;
     }
 
     findCurrentAnchor() {
@@ -60,15 +60,15 @@ export class ScrollSpy implements OnDestroy, OnInit {
     }
 
     ngOnInit() {
-        this.scrollable.addEventListener("scroll", this);
+        // this.scrollable.addEventListener("scroll", this);
     }
 
     ngOnDestroy() {
-        if (this.scrollable) {
-            this.scrollable.removeEventListener("scroll", this);
-        }
-        if (this.sub) {
-            this.sub.unsubscribe();
-        }
+        // if (this.scrollable) {
+        //     this.scrollable.removeEventListener("scroll", this);
+        // }
+        // if (this.sub) {
+        //     this.sub.unsubscribe();
+        // }
     }
 }
