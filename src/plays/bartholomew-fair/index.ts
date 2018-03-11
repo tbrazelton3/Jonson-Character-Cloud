@@ -18,7 +18,7 @@ export const PLAY = {
     leatherhead: { name: 'Leatherhead', description: 'A puppeteer and fair worker' },
     trash: { name: 'Trash', description: 'A fair worker selling gingerbread' },
     ursula: { name: 'Ursula', description: 'A fair worker selling pig and ale' },
-    mooncalf: { name: 'Mooncalf', description: 'Ursula\'s servant },
+    mooncalf: { name: 'Mooncalf', description: 'Ursula\'s servant' },
     costermonger: { name: 'Costermonger', description: 'A fruit seller' },
     knockem: { name: 'Knockem', description: 'A horse corser, a profession with a reputation similar to the stereotype of a crooked used-car salesman' },
     edgworth: { name: 'Edgworth', description: 'A thief' },
