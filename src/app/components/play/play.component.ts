@@ -26,10 +26,20 @@ export class PlayComponent implements OnInit {
   outline = OUTLINE;
   sections: Section[] = [];
   nav: Nav[] = [];
+  wordCounts = [];
+
+  colorScheme = {
+    domain: ['#AAAAAA']
+  };
 
 
   constructor(private router: Router, public playService: PlayService) {
     this.sections = playService.sections;
+    this.wordCounts = this.playService.characters.map(character => {
+      return {name: character.name, value: character.words};
+    }).sort((a, b) => {
+      return b.value - a.value;
+    });
 
     let currentNav = undefined;
     this.sections.forEach(section => {

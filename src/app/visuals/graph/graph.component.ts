@@ -1,5 +1,7 @@
-import { Component, Input, Output, ChangeDetectorRef,
-  EventEmitter, HostListener, ChangeDetectionStrategy, OnInit, AfterViewInit } from '@angular/core';
+import {
+  Component, Input, Output, ChangeDetectorRef,
+  EventEmitter, HostListener, ChangeDetectionStrategy, OnInit, AfterViewInit
+} from '@angular/core';
 import { D3Service, ForceDirectedGraph } from '../../d3';
 import { Link, Node } from '../../d3/models';
 
@@ -20,6 +22,7 @@ import { Link, Node } from '../../d3/models';
 export class GraphComponent implements OnInit, AfterViewInit {
   @Input('nodes') nodes: Node[];
   @Input('links') links: Link[];
+
   public selected: Node;
   @Output() selectedChange = new EventEmitter<Node>();
   public related: any = {};
@@ -32,6 +35,12 @@ export class GraphComponent implements OnInit, AfterViewInit {
   @HostListener('window:resize', ['$event'])
   onResize(event) {
     this.graph.initSimulation(this.options);
+  }
+  select(name) {
+    const found = this.nodes.find(value => value.id === name);
+    if (found) {
+      this.onSelect(found);
+    }
   }
   reset() {
     this.nodes.forEach(n => {

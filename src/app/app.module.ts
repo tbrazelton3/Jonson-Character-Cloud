@@ -18,6 +18,9 @@ import { CharacterLabelComponent } from './components/character-label/character-
 import { SceneComponent } from './components/scene/scene.component';
 import { PlayService } from './services/play.service';
 import { SectionComponent } from './components/section/section.component';
+import { NgxChartsModule } from '@swimlane/ngx-charts';
+
+
 
 const getWindow = () => window;
 
@@ -32,7 +35,7 @@ const ROUTES = [{path: '', component: PlayComponent}];
     ScrollSpy,
     CharacterLabelComponent,
     SceneComponent,
-    SectionComponent
+    SectionComponent,
   ],
   imports: [
     BrowserModule,
@@ -41,7 +44,9 @@ const ROUTES = [{path: '', component: PlayComponent}];
     FormsModule,
     MarkdownModule.forRoot(),
     HttpModule,
-    ClarityModule
+    ClarityModule,
+    NgxChartsModule
+
   ],
   providers: [D3Service, PlayService],
   bootstrap: [AppComponent]

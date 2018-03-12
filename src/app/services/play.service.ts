@@ -16,6 +16,7 @@ export interface Character {
   name: string;
   description: string;
   id: string;
+  words: number;
 }
 
 @Injectable()
