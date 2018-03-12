@@ -1,4 +1,4 @@
-import { Component, OnInit, HostBinding } from '@angular/core';
+import { Component, OnInit, HostBinding, ViewEncapsulation } from '@angular/core';
 import { Router, NavigationEnd } from '@angular/router';
 import { PLAY } from '../../../plays/bartholomew-fair';
 import { Node, Link } from '../../d3';
@@ -14,7 +14,9 @@ interface Nav {
 @Component({
   selector: 'app-play',
   templateUrl: 'play.component.html',
-  styleUrls: ['./play.component.scss']
+  styleUrls: ['./play.component.scss'],
+  encapsulation: ViewEncapsulation.None,
+
 })
 export class PlayComponent implements OnInit {
   @HostBinding('class.content-container') contentArea = true;
@@ -26,7 +28,7 @@ export class PlayComponent implements OnInit {
   nav: Nav[] = [];
 
 
-  constructor(private router: Router, private playService: PlayService) {
+  constructor(private router: Router, public playService: PlayService) {
     this.sections = playService.sections;
 
     let currentNav = undefined;

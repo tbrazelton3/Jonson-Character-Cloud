@@ -1,6 +1,7 @@
 /* tslint:disable:max-line-length */
 
 export const PLAY = {
+  wordCount: 35324,
   characters: {
     littlewit: { name: 'Littlewit', words: 2592, description: 'The ecclesiastical lawyer who issues Cokes\'s marriage license, and author of the puppet show'},
     winthefight: { name: 'Win-the-Fight', words: 445, description: 'Littlewit\'s wife and Dame Purecraft\'s daughter.'},
@@ -12,7 +13,6 @@ export const PLAY = {
     mistressoverdo: { name: 'Dame Overdo', words: 381, description: 'Justice Overdo\'s wife and Cokes\'s sister. She accompanies Grace and Cokes to the fair' },
     solomon: { name: 'Solomon', words: 2, description: 'servant to Littlewit' },
     damepurecraft: { name: 'Dame Purecraft', words: 874, description: 'A Puritan with a streak of superstition. She is well off and being courted both by the young Winwife and Zeal-of-the-Land Busy, her religious leader. A fortune-teller tells her before the start of the play that she must marry a madman within the next week in order to be happy.' },
-    zealoftheland: { name: 'Busy', words: 1668, description: 'A hypocritical Puritan who claims to hate the pleasures of the fair' },
     busy: { name: 'Busy', words: 1668, description: 'A hypocritical Puritan who claims to hate the pleasures of the fair' },
     overdo: { name: 'Justice Overdo', words: 3204, description: 'A judge who goes undercover as the madman Arthur Bradley in order to uncover bad behavior at the fair' },
     leatherhead: { name: 'Leatherhead', words: 2149, description: 'A puppeteer and fair worker' },
@@ -30,7 +30,6 @@ export const PLAY = {
     haggis: { name: 'Haggis', words: 284, description: 'A member of the watch' },
     bristle: { name: 'Bristle', words: 737, description: 'A member of the watch' },
     troubleall: { name: 'Trouble All', words: 551, description: 'A madman. Insists upon a warrant, signed in Overdo\'s name, before taking any action' },
-    mistresslittlewit:  { name: 'Win-the-Fight', words: 445, description: 'Littlewit\'s wife and Dame Purecraft\'s daughter. Win fakes a pregnancy craving to get her strict Puritan mother to agree to let her go to the fair.'},
     poacher: { name: 'Poacher', words: 22, description: 'A fairgoer' },
     nordern: { name: 'Nordern', words: 37, description: 'A fairgoer' },
     puppy: { name: 'Puppy', words: 34, description: 'A fairgoer and wrestler from the western part of England' },

@@ -56,7 +56,7 @@ Questions:
 * Why does Littlewit feel so sure that a pregnancy craving will convince Purecraft to let them go to the fair? 
 
 ### Scene 1.6
-Characters: Solomon, Littlewit, Win-the-fight, Dame Purecraft, Zeal-of-the-Land, Busy
+Characters: Solomon, Littlewit, Win-the-fight, Dame Purecraft, Busy
 
 Dame Purecraft, the widowed mother of Win-the-fight, arrives. Purecraft mentions that Win-the-fight’s upbringing was the purest and doesn’t understand her desire for pig. She encourages Win-the-fight to fight her desires for pig. Then, Zeal-of-the-Land Busy, Purecraft’s religious leader and possible love interest, arrives. Purecraft tells Busy that Win-the-fight has a craving to eat pig at the fair. Busy explains how the longing is a carnal disease, and at first he doesn’t want to go. Littlewit convinces Purecraft and Busy to go to the fair by telling them that  Win’s pregnancy is at stake if they don’t go to the fair. Consequently, Purecraft and Busy agree to go to the fair. Win-the-fight and Littlewit plan to leave Purecraft and Busy in the  booth at the Pig place so they can go enjoy the fair. Busy explains how eating pig aligns with his anti-semitic views as they leave for the fair. 
 
@@ -245,7 +245,7 @@ Cokes walks past the puppet show tent and decides he wants to see the play. He a
 ### Scene 5.4
 Characters: Cokes, Winwife, Grace, Leatherhead, Overdo, Filcher, Knockem, Sharkwell, Whit, Edgworth, Win-the-fight, Wasp, Puppet Leander, Puppet Cole, Puppet Jonas, Puppet Damon, Puppet Pythias
 
-Edgworth hits on Mistress Littlewit and Whit offers to sell either Mistress LIttlewit or Mistress Overdo’s sexual favors for twelvepence. Wasp comes to the show, and Littlewit goes looking for his wife (he doesn’t recognize her because she is wearing a mask). Leatherhead begins the puppet show. Cokes has difficulty telling reality from fiction. 
+Edgworth hits on Mistress Littlewit and Whit offers to sell either Mistress Littlewit or Mistress Overdo’s sexual favors for twelvepence. Wasp comes to the show, and Littlewit goes looking for his wife (he doesn’t recognize her because she is wearing a mask). Leatherhead begins the puppet show. Cokes has difficulty telling reality from fiction. 
 
 
 ### Scene 5.5
@@ -257,9 +257,9 @@ Questions:
 * Why does Busy seem convinced by Puppet Dionysius’s line of reasoning?
 
 ### Scene 5.6
-Characters: Quarlous, Dame Purecraft, Overdo, Edgworth, Knockem, Whit, Littlewit, Winwife, Mistress Littlewit, Trouble-All, Ursula, Overdo, Nightingale, Mistress Overdo, Wasp, Cokes
+Characters: Quarlous, Dame Purecraft, Overdo, Edgworth, Knockem, Whit, Littlewit, Winwife, Win-The-Fight, Trouble-All, Ursula, Overdo, Nightingale, Mistress Overdo, Wasp, Cokes
 
-Quarlous and Dame Purecraft enter. Still thinking that Quarlous is Trouble-All, Justice Overdo speaks gently to him. Littlewit returns looking for his wife. Justice Overdo delivers a self-righteous and judgmental speech condemning Busy for being a hypocrite, Leatherhead for being a “profane professor of puppetry,” Knockem of leading youth astray, and Whit for being a pimp. He unmasks MIstress Littlewit, then condemns Littlewit when he says that she is his wife. The real Trouble-All comes in, and Overdo realizes that he has been tricked. Mistress Overdo wakes up and starts throwing up because she is really drunk. Justice Overdo recognizes her and is humiliated. Quarlous reveals that he has Justice Overdo’s signature, transfering wardship of Grace to him. He agrees to let Grace marry Winwife, but demands that she pay him what she would have originally owed Justice Overdo. He also reveals that he has taken Cokes’s marriage license from Numps. Everyone is astounded. Quarlous suggests they finish the puppet show at Justice Overdo’s house, and Justice Overdo agrees. 
+Quarlous and Dame Purecraft enter. Still thinking that Quarlous is Trouble-All, Justice Overdo speaks gently to him. Littlewit returns looking for his wife. Justice Overdo delivers a self-righteous and judgmental speech condemning Busy for being a hypocrite, Leatherhead for being a “profane professor of puppetry,” Knockem of leading youth astray, and Whit for being a pimp. He unmasks Mistress Littlewit, then condemns Littlewit when he says that she is his wife. The real Trouble-All comes in, and Overdo realizes that he has been tricked. Mistress Overdo wakes up and starts throwing up because she is really drunk. Justice Overdo recognizes her and is humiliated. Quarlous reveals that he has Justice Overdo’s signature, transfering wardship of Grace to him. He agrees to let Grace marry Winwife, but demands that she pay him what she would have originally owed Justice Overdo. He also reveals that he has taken Cokes’s marriage license from Numps. Everyone is astounded. Quarlous suggests they finish the puppet show at Justice Overdo’s house, and Justice Overdo agrees. 
 
 ## General Questions
 

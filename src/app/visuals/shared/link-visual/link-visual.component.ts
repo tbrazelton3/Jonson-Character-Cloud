@@ -10,7 +10,7 @@ import { Link } from '../../../d3';
         [attr.y1]="link.source.y"
         [attr.x2]="link.target.x"
         [attr.y2]="link.target.y"
-        [attr.stroke-width]="link.count * 3"
+        [attr.stroke-width]="link.count * 1.5"
         [attr.stroke]="color"
     ></svg:line>
   `,
@@ -20,7 +20,7 @@ export class LinkVisualComponent {
   @Input('linkVisual') link: any;
   get color() {
     if ((<any>(this.link.source)).selected || (<any>(this.link.target)).selected) {
-      return '#00ff00';
+      return '#0065AB';
     }
     return 'rgb(222,237,250)';
 

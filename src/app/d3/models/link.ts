@@ -5,12 +5,12 @@ export class Link implements d3.SimulationLinkDatum<Node> {
   index?: number;
 
   // must - defining enforced implementation properties
-  source: Node | string | number;
-  target: Node | string | number;
+  source: Node;
+  target: Node;
   title: string;
   count = 1;
 
-  constructor(source, target, title='') {
+  constructor(source, target, title = '') {
     this.source = source;
     this.target = target;
     this.title = title;

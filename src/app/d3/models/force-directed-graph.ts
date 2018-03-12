@@ -6,7 +6,7 @@ import * as d3 from 'd3';
 const FORCES = {
   LINKS: 1 / 100,
   COLLISION: 1,
-  CHARGE: -20
+  CHARGE: -30
 }
 
 export class ForceDirectedGraph {
@@ -70,12 +70,15 @@ export class ForceDirectedGraph {
       this.simulation = d3.forceSimulation()
         .force('charge',
           d3.forceManyBody()
-            .strength(d => FORCES.CHARGE * d['r'])
+            .strength(d => {
+              return (d['linkCount'] - 6) * (FORCES.CHARGE * -1);
+              // return FORCES.CHARGE * d['linkCount']
+            })
         )
         .force('collide',
           d3.forceCollide()
             .strength(FORCES.COLLISION)
-            .radius(d => d['r'] + 5).iterations(2)
+            .radius(d => d['r'] + 40).iterations(2)
         );
 
       // Connecting the d3 ticker to an angular event emitter

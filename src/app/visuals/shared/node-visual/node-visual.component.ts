@@ -4,7 +4,7 @@ import { Node } from '../../../d3';
 @Component({
   selector: '[nodeVisual]',
   template: `
-    <svg:g (click)="onClick()" [attr.transform]="'translate(' + node.x + ',' + node.y + ')'">
+    <svg:g (click)="onClick($event)" [attr.transform]="'translate(' + node.x + ',' + node.y + ')'">
       <svg:circle
           class="node"
           [attr.fill]="color"
@@ -14,7 +14,7 @@ import { Node } from '../../../d3';
       </svg:circle>
       <svg:text
           class="node-name"
-          [attr.font-size]="node.fontSize / 5">
+          [attr.font-size]="node.fontSize">
         {{node.id}}
       </svg:text>
     </svg:g>
@@ -22,13 +22,21 @@ import { Node } from '../../../d3';
   styleUrls: ['./node-visual.component.css']
 })
 export class NodeVisualComponent {
-  @Input('nodeVisual') node: any;
+  @Input('nodeVisual') node: Node;
   @Output('select') select = new EventEmitter<Node>();
 
-  onClick() {
+  onClick(event) {
+    event.stopPropagation();
     this.select.emit(this.node);
   }
   get color() {
-    return this.node.selected ? '#00ff00' : this.node.color;
+    if ( this.node.selected ) {
+      return '#FF5500';
+    } else if ( this.node.related ) {
+      return '#0065AB';
+    } else {
+      return '#A6D8E7';
+    }
+    // return this.node.selected ? '#00ff00' : this.node.color;
   }
 }
