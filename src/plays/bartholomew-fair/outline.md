@@ -362,7 +362,7 @@ Latham, Jacqueline EM. "Form in Bartholomew Fair." English 21.109 (1972): 8-11. 
 
 * [Women at the Margins](https://www.yorknotes.com/undergraduate/english-literature/shakespeare-and-renaissance-drama/study/critical-theories-and-debates/03020200_women-at-the-margins)  (mostly about ursula rather than the entire play as a whole)
 *	[Character analysis & video reference](http://stageagent.com/shows/play/2352/bartholomew-fayre)
-* [Wikipedia Entry](https://en.wikipedia.org/wiki/Bartholomew_Fair_(play))
+* [Wikipedia Entry](https://en.wikipedia.org/wiki/Bartholomew_Fair_(play\))
 * [Summary of the play but you need an account for the website to be able to view the entire summary](https://www.coursehero.com/file/8871905/summary-of-bartholomew-fair/)
 * [textual essay extensively describing the play](https://universitypublishingonline.org/cambridge/benjonson/k/essays/Bartholomew_Fair_textual_essay/)
 * [Journal article by James E. Robinson reviewing the play an the author’s intent](https://www.jstor.org/stable/449340?seq=2#page_scan_tab_contents)
