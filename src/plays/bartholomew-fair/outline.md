@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-Bartholomew Fair takes place on the feast day of St. Bartholomew, a holiday celebrated with a major late-summer festival. The comedy follows the activities of the citizens who make their way to the fair for a variety of reasons and the fair folk who entertain and take advantage of them. The play begins in the office of a proctor (ecclesiastical lawyer), John Littlewit. A series of London citizens come into Littlewit’s office for various reasons - to court his mother-in-law, to commiserate about hangovers, and to acquire a marriage license. They all decide to go to Bartholomew Fair. Meanwhile, at the Fair, a number of fairgoers prepare to receive the townsfolk and Justice Overdo disguises as the madman, Arthur of Bradley, so that he can spy on the fairgoers and catch them breaking the law. Overdo sees, first-hand, the consequences of harshly judging others as he is put in the stocks on suspicion of causing a distraction for pickpockets. Dame Purecraft, Littlewit’s mother-in-law, falls in love with the madman Trouble-All because a fortune teller has told her she must marry a madman within a week to be happy. Quarlous and Winwife both propose to Grace, and she has Trouble-all help her pick randomly between them. Winwife becomes engaged to Grace and Quarlous to Dame Purecraft after he disguises himself as Trouble-All. After a series of pranks, thefts, and brawls, both the fair folk and the townsfolk gather to watch a puppet play (motion) written by John Littlewit and performed by the puppeteer, Lantern Leatherhead. The hypocritical Puritan, Zeal-of-the-Land Busy, engages in a debate (which he loses) with the puppets over the morality of the theater. Justice Overdo, newly compassionate and hospitable, invites people back to his house to continue the party. 
+Bartholomew Fair takes place on the feast day of St. Bartholomew, a holiday celebrated with a major late-summer festival. The comedy follows the activities of the citizens who make their way to the fair for a variety of reasons and the fair folk who entertain and take advantage of them. The play begins in the office of a proctor (ecclesiastical lawyer), John Littlewit. A series of London citizens come into Littlewit’s office for various reasons - to court his mother-in-law, to commiserate about hangovers, and to acquire a marriage license. They all decide to go to Bartholomew Fair. Meanwhile, at the Fair, a number of fairgoers prepare to receive the townsfolk and Justice Overdo disguises as the madman, Arthur of Bradley, so that he can spy on the fairgoers and catch them breaking the law. Overdo sees, first-hand, the consequences of harshly judging others as he is put in the stocks on suspicion of causing a distraction for pickpockets. Dame Purecraft, Littlewit’s mother-in-law, falls in love with the madman Trouble-All because a fortune teller has told her she must marry a madman within a week to be happy. Quarlous and Winwife, friends on the lookout for an advantageous marriage, both propose to Grace, Justice Overdo's ward. She jumps at the chance to get out of an unwanted engagement to Cokes, a foolish man-child. She has Trouble-all help her pick randomly between Quarlous and Winwife. Winwife becomes engaged to Grace and Quarlous to Dame Purecraft after he disguises himself as Trouble-All. After a series of pranks, thefts, and brawls, both the fair folk and the townsfolk gather to watch a puppet play (motion) written by John Littlewit and performed by the puppeteer, Lantern Leatherhead. The hypocritical Puritan, Zeal-of-the-Land Busy, engages in a debate (which he loses) with the puppets over the morality of the theater. Justice Overdo, newly compassionate and hospitable, invites people back to his house to continue the party. 
 
 ## Induction
 Characters: Stage-keeper, Book-holder, Scrivener
@@ -81,7 +81,7 @@ Characters: Leatherhead, Trash, Ursula, Overdo, Mooncalf, Costermonger
 Vendors offer their products and talk. Justice judges the nature of the vendors in a very pretentious manner based on their appearances.
 
 Questions:
-* Why does Ben Jonson include the comments of Justice Overdo? How does this develop Justice’s personality and attitude towards other characters? The scenery introduces the tone of the fair as the characters interact with each other. Overdo is better developed as a character that judges others.
+* Why does Ben Jonson include the comments of Justice Overdo? How does this develop Justice’s personality and attitude towards other characters? 
 
 ### Scene 2.3
 Characters: Knockem, Ursula, Overdo, Mooncalf
@@ -103,11 +103,10 @@ Questions:
 ### Scene 2.5
 Characters: Winwife, Quarlous, Ursula, Knockem
 
-Quarlous and Winwinfe go to the fair and are approached by all of the different fair people. Eventually they start to get fed up with the aggressive approaches and start picking fights with the fair people. The fight appears to be a fight between the two classes, and on the premise of class. The most prominent fight consists of Ursula against Quarlous and Winwife. During this fight Knockem starts to insult Quarlous and Winwife and the fight escalates. Eventually, Ursula comes out with a hot pan and ends up burning her own leg when she falls. 
+Quarlous and Winwinfe go to the fair and are approached by all of the different fair people. Eventually they start to get fed up with the aggressive approaches and start picking fights with the fair people. The fight appears to be divided along class lines. The most prominent fight consists of Ursula against Quarlous and Winwife. During this fight Knockem starts to insult Quarlous and Winwife and the fight escalates. Eventually, Ursula comes out with a hot pan and ends up burning her own leg when she falls. 
 
 Questions:
-* Why is this fight necessary to the overall drama/plot in the play? Why did Jonson include this fight scene, what does it symbolize?
-* Do you think it is significant that it is between two men and a woman? 
+* Do you think it is significant that the fight is between two men and a woman? 
 
 ### Scene 2.6
 Characters: Cokes, Wasp, Mistress Overdo, Grace, Edgworth, Nightingale
@@ -185,15 +184,15 @@ Nightingale and Edgworth are approached by Trouble-All who continues to ask for 
 Questions:
 * Why does Ben Jonson include a character like Trouble-All? What is his significance?
 * Why does Jonson have Cokes portrayed as such a fool; what does it add to the play?
-* What is the significance of him getting all his stuff stolen for a third time?
+* What is the significance of Cokes getting all his stuff stolen for a third time?
 
 ### Scene 4.3
 Characters: Grace, Quarlous, Win-Wife, Trouble-All, Edgworth
 
-Deciding on who Grace is to marry because she is not happy with Cokes and both Quarlous and Winwife are fighting to woo her. Grace tells them to each pick a word, and she will decide who to marry based on the words they have chosen. However, she also says she will refuse to say who won the competition until after the two men steal the marriage license so that they will both stay committed to stealing it. Trouble-All enters and questions whether the men have a warrant for their competition, to which they scoff at him and question the type of warrant required. Even Trouble-All cannot specify the type of warrant he is asking for.
+This scene shows Grace deciding who she will marry because she is not happy with Cokes and both Quarlous and Winwife are fighting to woo her. Grace tells them to each pick a word, and she will decide who to marry based on the words they have chosen. However, she also says she will refuse to say who won the competition until after the two men steal the marriage license so that they will both stay committed to stealing it. Trouble-All enters and questions whether the men have a warrant for their competition, to which they scoff at him and question the type of warrant required. Even Trouble-All cannot specify the type of warrant he is asking for.
 
 Questions:
-* Why are these two men vying for the love of Grace? Is there any significance to this?
+* Why are these two men vying for the love of Grace? 
 
 ### Scene 4.4
 Characters: Knockem, Nordern, Puppy, Cutting, Whit, Edgworth, Quarlous, Overdo, Wasp, Bristle
@@ -205,7 +204,7 @@ Questions:
 ### Scene 4.5
 Characters: Littlewit, Win-the-fight, Ursula, Knockem, Whit, Alice, Mistress Overdo
 
-Littlewit leaves Win with Ursula and Knockem. Ursula, Knockem, and Whit talk about how how the life of a woman is one of captivity when she does everything right (marry the right man and have children). They then convince Win that she has been living her life wrong and convince her to come get dressed up like a courtesan. Alice enters assaulting Mrs Overdo believing that she has been stealing business away from her. Knockem and Whit manage to throw Alice out of the tent after laughing at her. They then continue discussing how much freer they are compared honest women like Win.
+Littlewit leaves Win with Ursula and Knockem. Ursula, Knockem, and Whit talk about how how the life of a woman is one of captivity when she does everything right (marry the right man and have children). They then convince Win-the-fight that she has been living her life wrong and convince her to come get dressed up like a courtesan. Alice enters assaulting Mrs Overdo believing that she has been stealing business away from her. Knockem and Whit manage to throw Alice out of the tent after laughing at her. They then continue discussing how much freer they are compared honest women like Win-the-fight.
 
 Questions:
 * How much does Win-the-Fight understand about what Knocken and Whit are trying to get her to do? 
@@ -216,8 +215,7 @@ Characters: Trouble-all, Knockem, Whit, Quarlous, Edgworth, Wasp, Bristle, Haggi
 Quarlous wants to know what word Trouble-all picked. They try to put Wasp in the stocks but he escapes. At the end of the scene the stocks are left unlocked after a fight between Trouble-all and Bristle, so Busy and Overdo also escape. Quarlous decides to dress up like a madman after seeing Trouble-All. 
 
 Questions:
-* Justice Overdo is being hypocritical as he is being a stoic in the stocks accepting his fate but still decides to escape at the end of the scene when the stocks are left open.
-* Do Trouble-all’s action have purpose? (In the end he helps Overdo who he “needs” warrant from)
+* Is Justice Overdo being hypocritical when he talks about accepting his fate since he still decides to escape at the end of the scene when the stocks are left open?
 
 ## Act V
 
@@ -266,9 +264,8 @@ Quarlous and Dame Purecraft enter. Still thinking that Quarlous is Trouble-All, 
 #### Why does Jonson’s give the Puritan characters in the play a contrasting speech style?
 Wilson, Emma. ""All is but hinnying sophistry": The Puritanical Role of Early Modern Logic in Jonson's Bartholomew Fair" Paper presented at the annual meeting of the RSA Annual Meeting, Hilton Montreal Bonaventure Hotel, Montreal, Quebec Canada, <Not Available>. 2014-11-26
 
-#### How does the judgements within the play vary between the strictly legal or theological and the more personal and purely aesthetic suggest the need, in our human social life, for a balance between too much law and too little law?
+#### How does the way in which the judgements within the play vary between the strictly legal or theological and the more personal and purely aesthetic suggest the need, in our human social life, for a balance between too much law and too little law?
 McAdam, Ian. “The Puritan Dialectic of Law and Grace in ‘Bartholomew Fair.’” Studies in English Literature, 1500-1900, vol. 46, no. 2, 2006, pp. 415–433. JSTOR, JSTOR, www.jstor.org/stable/3844649.
-
 
 #### Why does Jonson have so many seemingly diverging plots?
 Robinson, James E. “Bartholomew Fair: Comedy of Vapors.” Studies in English Literature, 1500-1900, vol. 1, no. 2, 1961, pp. 65–80. JSTOR, JSTOR, www.jstor.org/stable/449340.
@@ -283,18 +280,19 @@ Gillen, K. (2015). Female chastity and commoditized selfhood in bartholomew fair
 Pinciss, G. M. (1995). Bartholomew fair and jonsonian tolerance. Studies in English Literature, 1500 - 1900, 35(2), 345. Retrieved from http://prx.library.gatech.edu/login?url=https://search.proquest.com/docview/204324621?accountid=11107
 
 #### Which common trope is used in Jonson’s Bartholomew Fair and in what other literature has this trope been reused?
-Milne, K. (2011). Reforming bartholomew fair: Bunyan, jonson, and the puritan point of view. The Huntington Library Quarterly, 74(2), 289-308. Retrieved from http://prx.library.gatech.edu/login?url=https://search.proquest.com/docview/877899336?accountid=11107
+Milne, K. (2011). Reforming bartholomew fair: Bunyan, Jonson, and the 
+Puritan point of view. The Huntington Library Quarterly, 74(2), 289-308. Retrieved from http://prx.library.gatech.edu/login?url=https://search.proquest.com/docview/877899336?accountid=11107
 
 #### Why does Justice feel this moral obligation to overstep his jurisdiction to seek out the morally depraved rather than take his cases as they are reported to him? Are the judgements made on the fair workers appropriate or are they warped by Overdo’s preconceived notions? 
 Pettegree, Jane. "Contamination, Judgment, and Friendship in Bartholomew Fair." Ben Jonson Journal, vol. 19, no. 2, Nov. 2012, pp. 217-239. EBSCOhost, prx.library.gatech.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=lfh&AN=82863764&site=lrc-live.
 http://web.a.ebscohost.com/lrc/pdfviewer/pdfviewer?vid=6&sid=f049ba56-0242-4b21-bed8-6c62db24efdf%40sessionmgr4010
 Section on Preposterous Law: Tyranny and Foolish Judgement
 
-#### What is the historical context of “fairs” in Bartholomew fair?
+#### What is the historical context of “fairs” in Bartholomew Fair?
 Haynes, Jonathan. Festivity and the Dramatic Economy of Jonson’s Bartholomew fair. The Johns Hopkins University Press .http://www.jstor.org/stable/2872778
 http://www.jstor.org/stable/2872778?seq=1#page_scan_tab_contents
 
-#### Overdo getting blamed, does it affect others judgement on him?
+#### What does Overdo's character suggest about early modern understandings of responsibility and judgment? 
 Pinciss, G.M. "Bartholomew Fair and Jonsonian Tolerance." Studies in English Literature (Rice), vol. 35, no. 2, Spring95, p. 345. EBSCOhost, prx.library.gatech.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=lfh&AN=9507106364&site=lrc-live.
 http://web.a.ebscohost.com/lrc/pdfviewer/pdfviewer?vid=11&sid=f049ba56-0242-4b21-bed8-6c62db24efdf%40sessionmgr4010
 Beginning of Chapter III
@@ -303,7 +301,7 @@ Beginning of Chapter III
 W. J. Olive; A Chaucer Allusion in Jonson's Bartholomew Fair. Modern Language Quarterly 1 March 1952; 13 (1): 21–22. doi: https://doi.org/10.1215/00267929-13-1-21
 https://read.dukeupress.edu/modern-language-quarterly/article/13/1/21/16183/A-Chaucer-Allusion-in-Jonson-s-Bartholomew-Fair
 
-#### Argues that the play is more organized and neo-classical than it seems and that there are reasons behind the digressions.
+#### What is the structure of Bartholomew Fair? Is it more neo-classical or experimental? 
 “In Defense of the Marketplace: Spontaneous Order in Jonson’s Bartholomew Fair.” Paul A. Cantor, Ben Jonson Journal 8(1) pp 23-64. 
 
 #### Why does Justice Overdo choose the disguise of Arthur of Bradley?
@@ -314,14 +312,11 @@ History of the ballad of Arthur of Bradley
 Debora K. Shuger, "Hypocrites and Puppets in "Bartholomew Fair"," Modern Philology 82, no. 1 (Aug., 1984): 70-73.
 https://www.journals.uchicago.edu/doi/abs/10.1086/391346?journalCode=mp 
 
-#### How does Jonson create the symbolism of vapors?
-Robinson, James E. “Bartholomew Fair: Comedy of Vapors.” Studies in English Literature, 1500-1900, vol. 1, no. 2, 1961, pp. 67. JSTOR, JSTOR, www.jstor.org/stable/449340.
-
 #### How does Bartholomew Fair show the extremes of discrimination and law?
 McAdam, I. "The Puritan Dialectic of Law and Grace in Bartholomew Fair." SEL Studies in English Literature 1500-1900, vol. 46 no. 2, 2006, pp. 415-433. Project MUSE, doi:10.1353/sel.2006.0017
 
 #### How is chance used as a plot device throughout the play?
-Hamel, Guy. “Order and Judgement in Bartholomew Fair .” University of Toronto Press Journals, Sept. 1978, www.utpjournals.press/doi/pdf/10.3138/utq.43.1.48. 
+Hamel, Guy. “Order and Judgement in Bartholomew Fair.” University of Toronto Press Journals, Sept. 1978, www.utpjournals.press/doi/pdf/10.3138/utq.43.1.48. 
 
 #### Who do you think Ben Jonson was trying to socially critique through his Bartholomew Fair?
 KAY, W. D. (1976), Bartholomew Fair: Ben Jonson in Praise of Folly. English Literary Renaissance, 6: 299–316. doi:10.1111/j.1475-6757.1976.tb01349.x .
@@ -329,16 +324,16 @@ KAY, W. D. (1976), Bartholomew Fair: Ben Jonson in Praise of Folly. English Lite
 #### How does Jonson define the relationship between his drama and its sociohistorical context?
 DON E. WAYNE, "Drama and Society in the Age of Jonson: An Alternative View," Renaissance Drama 13, no. (1982): 103-129.https://doi.org/10.1086/rd.13.43264631 .
 
-#### Do you think Jonson’s main audience(King James) and the others who would later watched  the play influenced Jonson’s decisions? 
+#### How did Jonson's differing audiences (King James, common people in London) influence Jonson's dramatic decisions?
 Marcus, Leah Sinanoglou. "Of Mire and Authorship." Cambridge University Press, 1995. http://discoverarchive.vanderbilt.edu/bitstream/handle/1803/3145/MarcusOfMireAndAuthorship1995.pdf?sequence=1.
 
 #### How does Jonson’s consistently make fun of law consistently throughout the play? 
-Brown, Andrew. "Theatre of Judgment: Space, Spectators, and the Epistemologies of Law in" Bartholomew Fair"." Early Theatre 15.2 (2012): 154-167. http://www.jstor.org/stable/43499631 .
+Brown, Andrew. "Theatre of Judgment: Space, Spectators, and the Epistemologies of Law in Bartholomew Fair." Early Theatre 15.2 (2012): 154-167. http://www.jstor.org/stable/43499631 .
 
-#### How does Jonson characterize authority figures? How about people who are traditionally viewed as subordinate(the masses)?
+#### How does Jonson characterize authority figures? How about people who are traditionally viewed as subordinate?
 FERREIRA-ROSS, JEANETTE. “Religion and the Law in Jonson's ‘Bartholomew’ Fair.” Renaissance and Reformation / Renaissance Et Réforme, vol. 18, no. 2, 1994, pp. 45–66. JSTOR, JSTOR, www.jstor.org/stable/43444901.
 
-#### How does Jonson use the concept of reality to advance the narrative and make the play unique? How does he mimic real life? In what ways does he exaggerate? 
+#### How does Jonson use realism to advance the narrative and make the play unique? How does he mimic real life? In what ways does he exaggerate? 
 Latham, Jacqueline EM. "Form in Bartholomew Fair." English 21.109 (1972): 8-11. https://academic.oup.com/english/article-abstract/21/109/8/696825 .
 
 
@@ -371,6 +366,5 @@ Latham, Jacqueline EM. "Form in Bartholomew Fair." English 21.109 (1972): 8-11. 
 * [Journal entry analysis by Richard Levin about the structure of the play and the content](https://www.jstor.org/stable/461264?Search=yes&resultItemClick=true&searchText=Bartholomew&searchText=fair&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DBartholomew%2Bfair%26amp%3Bfilter%3D&refreqid=search%3A0fc899e69cf304989b39ca53ca4783dd&seq=1#page_scan_tab_contents)
 * [critical essay/evaluation of the play as a whole piece of work; not a summary of the play itself](https://www.enotes.com/topics/bartholomew-fair/critical-essays)
 * [Focuses on the auditory challenge presented when performing in front of packed houses.](http://jps.library.utoronto.ca/index.php/eth/article/viewFile/22184/17997)
-* [Themes and staging of bartholomew fair](https://muse.jhu.edu/article/559794/pdf)
-* [Female chastity and commonitized selfhood in bartholomew fair](https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_museS1522927015200020&context=PC&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US)
-* [puppets relation to theft during the time period](https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_proquest1411131226&context=PC&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US)
+* [Themes and staging of Bartholomew Fair](https://muse.jhu.edu/article/559794/pdf)
+* [puppets' relation to theft during the time period](https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_proquest1411131226&context=PC&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US)
