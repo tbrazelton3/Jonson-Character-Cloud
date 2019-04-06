@@ -31,7 +31,7 @@ export class CharacterLabelComponent implements OnInit {
 
   constructor(public playService: PlayService) { }
 
-  @Input() character: Character = {};
+  @Input() character: any = {};
 
   ngOnInit() {
   }
