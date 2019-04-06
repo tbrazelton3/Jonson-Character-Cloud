@@ -3,6 +3,7 @@ import { Router, NavigationEnd } from '@angular/router';
 import { PLAY } from '../../../plays/bartholomew-fair';
 import { Node, Link } from '../../d3';
 import { PlayService, Section } from 'app/services/play.service';
+import { formatNumber } from '@angular/common';
 
 const OUTLINE = require('raw-loader!../../../plays/bartholomew-fair/outline.md');
 
@@ -27,14 +28,28 @@ export class PlayComponent implements OnInit {
   sections: Section[] = [];
   nav: Nav[] = [];
   wordCounts = [];
+  wordPercents = []
 
   colorScheme = {
     domain: ['#AAAAAA']
   };
 
+  formatAxis(value) {
+    return value + '%';
+  }
+
+  formatValue() {
+    return '';
+  }
+
 
   constructor(private router: Router, public playService: PlayService) {
     this.sections = playService.sections;
+
+    this.wordPercents = this.playService.characters.map(character => {
+      return Object.assign({}, character, {value: character.wordPercent});
+    });
+
     this.wordCounts = this.playService.characters.map(character => {
       return {name: character.name, value: character.words};
     }).sort((a, b) => {

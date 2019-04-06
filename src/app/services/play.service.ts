@@ -17,6 +17,7 @@ export interface Character {
   description: string;
   id: string;
   words: number;
+  wordPercent?: number;
 }
 
 @Injectable()
@@ -26,10 +27,12 @@ export class PlayService {
   characters: Character[] = [];
   nodes: Node[] = [];
   links: Link[] = [];
+  wordCount = PLAY.wordCount;
 
   constructor() {
     this.sections = this.parseMarkdown(OUTLINE);
     this.buildGraph();
+    this.characters.sort((a, b) => b.words - a.words);
   }
 
   parseMarkdown(raw): Section[] {
@@ -82,6 +85,7 @@ export class PlayService {
     for (const prop in PLAY.characters) {
       if (PLAY.characters[prop]) {
         const character = PLAY.characters[prop];
+        character.wordPercent = character.words / PLAY.wordCount * 100;
         this.characters.push(character);
         const node: Node = new Node(character.name);
         this.nodes.push(node);

@@ -1,37 +1,77 @@
 <div class="content-area container-fluid" hash-listener #playnav>
   <div id="play"></div>
   <app-section *ngFor="let section of sections | slice:0:1" [section]="section"></app-section>
-  <h2>Characters</h2>
+  <clr-tabs class="clr-row">
 
-  <div class="container">
-    <div class="clr-row">
-      <div class="clr-col-12" [style.border]="'solid 1px #ccc'">
-          <graph #graph [nodes]="playService.nodes" [links]="playService.links"></graph>
-      </div>
-    </div>
-    <div class="clr-row mt-1">
-      <div class="clr-col-3" [style.margin-top]="'.125rem'" *ngFor="let character of playService.characters">
-        <app-character-label
-          [character]="character"
-          (click)="graph.select(character.name)"
-          [class.selected]="graph.selected?.id === character.name"
-          [class.related]="graph.related && !!graph.related[character.name]">
-        </app-character-label>
-      </div>
-    </div>
-  </div>
-  <h3>Character Word Counts</h3>
-  <div class="container">
-    <div class="clr-row">
-      <div class="clr-col-12">
+    <clr-tab>
+      <button clrTabLink id="characters">Characters</button>
+      <clr-tab-content>
+        <div class="clr-row m-1">
+          <div class="clr-col-12" [style.border]="'solid 1px #ccc'">
+            <graph #graph [nodes]="playService.nodes" [links]="playService.links"></graph>
+          </div>
+        </div>
+        <div class="clr-row mt-1">
+          <div class="clr-col-3" [style.margin-top]="'.125rem'" *ngFor="let character of playService.characters">
+            <app-character-label [character]="character" (click)="graph.select(character.name)"
+              [class.selected]="graph.selected?.id === character.name"
+              [class.related]="graph.related && !!graph.related[character.name]">
+            </app-character-label>
+          </div>
+        </div>
+      </clr-tab-content>
+    </clr-tab>
+
+
+    <clr-tab>
+      <button clrTabLink id="wordCounts">Word Counts</button>
+      <clr-tab-content>
+        <div class="clr-col-12 m-1">
+          <ngx-charts-pie-chart [results]="wordCounts" [doughnut]="true" [labels]="true" [view]="[700,700]">
+            <ng-template #tooltipTemplate let-model="model">
+              <h3 [style.color]="'white'">{{model.name}}</h3>
+              {{model.value}} ({{(model.value / playService.wordCount * 100) | number: '1.1-1'}}%)
+            </ng-template>
+          </ngx-charts-pie-chart>
+        </div>
+      </clr-tab-content>
+    </clr-tab>
+  </clr-tabs>
+  <!-- <h2>Characters</h2> -->
+
+
+  <!-- <h3>Character Word Counts</h3> -->
+  <!-- <div class="container">
+    <div class="clr-row"> -->
+  <!-- <div class="clr-col-12">
+        <ngx-charts-gauge
+          [legend]="false"
+          [view]="[600,600]"
+          legendTitle=""
+          legendPosition="below"
+          [min]="0"
+          [max]="12"
+          [showAxis]="true"
+          [smallSegments]="0"
+          [axisTickFormatting]="formatAxis"
+          [valueFormatting]="formatValue"
+          [results]="wordPercents">
+          <ng-template #tooltipTemplate let-model="model">
+            <h3 [style.color]="'white'">{{model.name}}</h3>
+            {{model.value | number:'1.1-1' }}%
+          </ng-template>
+        </ngx-charts-gauge>
+      </div> -->
+
+  <!-- <div class="clr-col-12">
           <ngx-charts-pie-grid
             [view]="[700,2400]"
             [scheme]="colorScheme"
             [results]="wordCounts">
         </ngx-charts-pie-grid>
-      </div>
-    </div>
-  </div>
+      </div> -->
+  <!-- </div>
+  </div> -->
 
 
 
@@ -42,16 +82,16 @@
 </div>
 
 <nav class="sidenav" [clr-nav-level]="1">
-    <section class="sidenav-content" role="navigation" [scrollspy]="playnav">
-        <!-- <a class="nav-link" routerLink="." fragment="play">{{title}}</a> -->
-        <section class="nav-group" *ngFor="let n of nav">
-            <a class="nav-link ml-1" routerLink="." [fragment]="n.section.id">{{n.section.title}}</a>
-            <ul class="nav-list">
-                <li *ngFor="let subsection of n.children; let j = index ">
-                    <a class="nav-link" routerLink="." [fragment]="subsection.id">{{subsection.title}}</a>
+  <section class="sidenav-content" role="navigation" [scrollspy]="playnav">
+    <!-- <a class="nav-link" routerLink="." fragment="play">{{title}}</a> -->
+    <section class="nav-group" *ngFor="let n of nav">
+      <a class="nav-link ml-1" routerLink="." [fragment]="n.section.id">{{n.section.title}}</a>
+      <ul class="nav-list">
+        <li *ngFor="let subsection of n.children; let j = index ">
+          <a class="nav-link" routerLink="." [fragment]="subsection.id">{{subsection.title}}</a>
 
-                </li>
-            </ul>
-        </section>
+        </li>
+      </ul>
     </section>
+  </section>
 </nav>
