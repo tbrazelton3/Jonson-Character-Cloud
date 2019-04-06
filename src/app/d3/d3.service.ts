@@ -1,7 +1,5 @@
 import { Injectable, EventEmitter } from '@angular/core';
 import { Node, Link, ForceDirectedGraph } from './models';
-import {zoom} from 'd3-zoom';
-import {select} from 'd3-selection';
 import * as d3 from 'd3';
 
 @Injectable()
