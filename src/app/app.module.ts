@@ -6,7 +6,7 @@ import { HttpModule } from '@angular/http';
 import { ClarityModule } from '@clr/angular';
 import { RouterModule, Route } from '@angular/router';
 import { D3Service, D3_DIRECTIVES } from './d3';
-import { MarkdownModule } from 'ngx-md';
+import { NgxMdModule } from 'ngx-md';
 
 import { AppComponent } from './app.component';
 
@@ -42,7 +42,7 @@ const ROUTES = [{path: '', component: PlayComponent}];
     BrowserAnimationsModule,
     RouterModule.forRoot(ROUTES),
     FormsModule,
-    MarkdownModule.forRoot(),
+    NgxMdModule.forRoot(),
     HttpModule,
     ClarityModule,
     NgxChartsModule

@@ -25,6 +25,9 @@ play.split('\n').forEach(element => {
     let lines = element.split('</name')[1];
     counts[name]+= lines.split(' ').length;
     totalCount += lines.split(' ').length;
+    if (name === 'Winw.') {
+      console.log(lines, lines.split(' ').length, counts[name]);
+    }
   }
 });
 
